@@ -1,0 +1,17 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal\unreal_Study).
+  Parsing headers for ShootingCPPEditor
+    Running UnrealHeaderTool "D:\Unreal\unreal_Study\ShootingCPP\ShootingCPP.uproject" "D:\Unreal\unreal_Study\ShootingCPP\Intermediate\Build\Win64\ShootingCPPEditor\Development\ShootingCPPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\kyulgon\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for ShootingCPPEditor in 2.336486 seconds
+  Building ShootingCPPEditor...
+  Using Visual Studio 2019 14.29.30151 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 5 actions with 24 processes...
+    [1/5] CodingTestActor.cpp
+    [2/5] CodingTestActor.gen.cpp
+    [3/5] UE4Editor-ShootingCPP-0024.lib
+       D:\Unreal\unreal_Study\ShootingCPP\Intermediate\Build\Win64\UE4Editor\Development\ShootingCPP\UE4Editor-ShootingCPP-0024.lib 라이브러리 및 D:\Unreal\unreal_Study\ShootingCPP\Intermediate\Build\Win64\UE4Editor\Development\ShootingCPP\UE4Editor-ShootingCPP-0024.exp 개체를 생성하고 있습니다.
+    [4/5] UE4Editor-ShootingCPP-0024.dll
+       D:\Unreal\unreal_Study\ShootingCPP\Intermediate\Build\Win64\UE4Editor\Development\ShootingCPP\UE4Editor-ShootingCPP-0024.suppressed.lib 라이브러리 및 D:\Unreal\unreal_Study\ShootingCPP\Intermediate\Build\Win64\UE4Editor\Development\ShootingCPP\UE4Editor-ShootingCPP-0024.suppressed.exp 개체를 생성하고 있습니다.
+    [5/5] ShootingCPPEditor.target
+  Total time in Parallel executor: 1.29 seconds
+  Total execution time: 4.03 seconds

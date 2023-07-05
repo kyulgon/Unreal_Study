@@ -1,0 +1,2 @@
+D:\Unreal\unreal_Study\ShootingCPP\Intermediate\Build\Win64\UE4Editor\Development\ShootingCPP\Definitions.ShootingCPP.h
+D:\Unreal\unreal_Study\ShootingCPP\Source\ShootingCPP\ShootingCPP.h

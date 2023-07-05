@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ShootingCPP.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F6186D5A-512A-4A3B-813B-B2E1E606208C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ShootingCPP.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ShootingCPPEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{8BC70EAD-D0F3-4A3F-AC10-E52F48B397DC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ShootingCPP">
+      <UniqueIdentifier>{D6C3C61A-877F-4DF0-A643-749FCA113F35}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ShootingCPP\ShootingCPP.Build.cs">
+      <Filter>Source\ShootingCPP</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ShootingCPP\ShootingCPP.cpp">
+      <Filter>Source\ShootingCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShootingCPP\ShootingCPP.h">
+      <Filter>Source\ShootingCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ShootingCPP\ShootingCPPGameModeBase.cpp">
+      <Filter>Source\ShootingCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShootingCPP\ShootingCPPGameModeBase.h">
+      <Filter>Source\ShootingCPP</Filter>
+    </ClInclude>
+    <Filter Include="Source\ShootingCPP\Private">
+      <UniqueIdentifier>{714677D0-448A-4EDD-B522-0084FEA7B52F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ShootingCPP\Private\CodingTestActor.cpp">
+      <Filter>Source\ShootingCPP\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\ShootingCPP\Public">
+      <UniqueIdentifier>{B9EAC73C-B767-431C-AEFE-14156A56FB7D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ShootingCPP\Public\CodingTestActor.h">
+      <Filter>Source\ShootingCPP\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
