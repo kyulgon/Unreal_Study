@@ -66,7 +66,10 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(ACodingTestActor)
 
 
-#define ShootingCPP_Source_ShootingCPP_Public_CodingTestActor_h_12_PRIVATE_PROPERTY_OFFSET
+#define ShootingCPP_Source_ShootingCPP_Public_CodingTestActor_h_12_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__number1() { return STRUCT_OFFSET(ACodingTestActor, number1); }
+
+
 #define ShootingCPP_Source_ShootingCPP_Public_CodingTestActor_h_9_PROLOG
 #define ShootingCPP_Source_ShootingCPP_Public_CodingTestActor_h_12_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \

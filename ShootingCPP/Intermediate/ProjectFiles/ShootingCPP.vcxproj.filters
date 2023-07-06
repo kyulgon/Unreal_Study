@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\ShootingCPP.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{F6186D5A-512A-4A3B-813B-B2E1E606208C}</UniqueIdentifier>
+      <UniqueIdentifier>{2E3AE0C0-959E-4141-998A-03214944F65E}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ShootingCPP.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{8BC70EAD-D0F3-4A3F-AC10-E52F48B397DC}</UniqueIdentifier>
+      <UniqueIdentifier>{E9A2A15C-C344-4957-9CFE-30EE61491041}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\ShootingCPP">
-      <UniqueIdentifier>{D6C3C61A-877F-4DF0-A643-749FCA113F35}</UniqueIdentifier>
+      <UniqueIdentifier>{774424B1-ABD3-4B83-A02D-043F2069E1D9}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ShootingCPP\ShootingCPP.Build.cs">
       <Filter>Source\ShootingCPP</Filter>
@@ -42,15 +42,33 @@
       <Filter>Source\ShootingCPP</Filter>
     </ClInclude>
     <Filter Include="Source\ShootingCPP\Private">
-      <UniqueIdentifier>{714677D0-448A-4EDD-B522-0084FEA7B52F}</UniqueIdentifier>
+      <UniqueIdentifier>{5BCF9E59-FD3D-4FAD-AB73-2D21E1A67823}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\ShootingCPP\Private\AccessTest.cpp">
+      <Filter>Source\ShootingCPP\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\ShootingCPP\Private\CodingTestActor.cpp">
       <Filter>Source\ShootingCPP\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\ShootingCPP\Private\PlayerPawn.cpp">
+      <Filter>Source\ShootingCPP\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ShootingCPP\Private\ShootingGameModeBase.cpp">
+      <Filter>Source\ShootingCPP\Private</Filter>
+    </ClCompile>
     <Filter Include="Source\ShootingCPP\Public">
-      <UniqueIdentifier>{B9EAC73C-B767-431C-AEFE-14156A56FB7D}</UniqueIdentifier>
+      <UniqueIdentifier>{54923256-FD24-4325-8DD4-E49146DCCC28}</UniqueIdentifier>
     </Filter>
+    <ClInclude Include="..\..\Source\ShootingCPP\Public\AccessTest.h">
+      <Filter>Source\ShootingCPP\Public</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\ShootingCPP\Public\CodingTestActor.h">
+      <Filter>Source\ShootingCPP\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ShootingCPP\Public\PlayerPawn.h">
+      <Filter>Source\ShootingCPP\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ShootingCPP\Public\ShootingGameModeBase.h">
       <Filter>Source\ShootingCPP\Public</Filter>
     </ClInclude>
   </ItemGroup>

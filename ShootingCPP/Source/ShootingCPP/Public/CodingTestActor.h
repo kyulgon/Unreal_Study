@@ -19,33 +19,26 @@ protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
-	/*int32 number1 = 10;
-	float number2 = 3.14f;
-	FString name = TEXT("테스트");
-	bool isReady = true;
-	bool isFinished = false;*/
-
-
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
+protected:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 		int32 number1 = 10;
 
+public:
 	UPROPERTY(EditAnywhere, BlueprintReadOnly)
 		int32 number2 = 30;
-
+		
 	UPROPERTY(EditInstanceOnly)
-		FString name = TEXT("테에에스트!");
-	
+		FString name = TEXT("Test");
+
 	UPROPERTY(EditAnywhere)
 		bool isReady = true;
-	
+
 	bool isFinished = false;
 
-	// 더하기 함수 선언
 	UFUNCTION(BlueprintPure)
 		int32 Add(int32 num1, int32 num2);
-
 };
