@@ -12,17 +12,11 @@ APlayerPawn::APlayerPawn()
 	PrimaryActorTick.bCanEverTick = true;
 
 	boxComp = CreateDefaultSubobject<UBoxComponent>(TEXT("My Box Component"));
-
-	// 생성한 박스 콜라이더 컴포넌트를 최상단 컴포넌트로 설정
 	SetRootComponent(boxComp);
 
-	// 스태틱 메시 컴포넌트를 생성
 	meshComp = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("My Static Mesh"));
-
-	// 박스 콜라이더 컴포넌트의 자식 컴포넌트로 설정
 	meshComp->SetupAttachment(boxComp);
 
-	// 박스 콜라이더의 크기 50, 50, 50으로 설정
 	FVector boxSize = FVector(50.0f, 50.0f, 50.0f);
 	boxComp->SetBoxExtent(boxSize);
 }
@@ -39,6 +33,12 @@ void APlayerPawn::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
+	FVector dir = FVector(0, h, v);
+	dir.Normalize();
+
+	FVector newLocation = GetActorLocation() + dir * moveSpeed * DeltaTime;
+	SetActorLocation(newLocation);
+
 }
 
 // Called to bind functionality to input
@@ -46,8 +46,8 @@ void APlayerPawn::SetupPlayerInputComponent(UInputComponent* PlayerInputComponen
 {
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
 
-	
-
+	PlayerInputComponent->BindAxis("Horizontal", this, &APlayerPawn::MoveHorizontal);
+	PlayerInputComponent->BindAxis("Vertical", this, &APlayerPawn::MoveVertical);
 }
 
 void APlayerPawn::MoveHorizontal(float value)
