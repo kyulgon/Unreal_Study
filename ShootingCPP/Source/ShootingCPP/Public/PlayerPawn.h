@@ -35,10 +35,21 @@ public:
 	UPROPERTY(EditAnywhere)
 		float moveSpeed = 500;
 
+	UPROPERTY(EditAnywhere)
+		class UArrowComponent* firePosition;
+
+	UPROPERTY(EditAnywhere)
+		TSubclassOf<class ABullet> bulletFactory;
+
+	UPROPERTY(EditAnywhere)
+		class USoundBase* fireSound;
+
 private:
 	float h;
 	float v;
 
 	void MoveHorizontal(float value);
 	void MoveVertical(float value);
+
+	void Fire();
 };

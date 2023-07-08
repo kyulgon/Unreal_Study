@@ -19,6 +19,8 @@ ABullet::ABullet()
 
 	meshComp = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("Static Mesh Collider"));
 	meshComp->SetupAttachment(boxComp);
+
+	boxComp->SetCollisionProfileName(TEXT("Bullet"));
 }
 
 // Called when the game starts or when spawned
