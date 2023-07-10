@@ -8,3 +8,9 @@ D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxCompon
 D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Public\EngineUtils.h
 D:\Unreal\unreal_Study\ShootingCPP\Source\ShootingCPP\Public\PlayerPawn.h
 D:\Unreal\unreal_Study\ShootingCPP\Intermediate\Build\Win64\UE4Editor\Inc\ShootingCPP\PlayerPawn.generated.h
+D:\Unreal\unreal_Study\ShootingCPP\Source\ShootingCPP\Public\ShootingGameModeBase.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Unreal\unreal_Study\ShootingCPP\Intermediate\Build\Win64\UE4Editor\Inc\ShootingCPP\ShootingGameModeBase.generated.h

@@ -1,0 +1,7 @@
+D:\Unreal\unreal_Study\ShootingCPP\Intermediate\Build\Win64\UE4Editor\Development\ShootingCPP\Definitions.ShootingCPP.h
+D:\Unreal\unreal_Study\ShootingCPP\Source\ShootingCPP\Public\KillZone.h
+D:\Unreal\unreal_Study\ShootingCPP\Intermediate\Build\Win64\UE4Editor\Inc\ShootingCPP\KillZone.generated.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h

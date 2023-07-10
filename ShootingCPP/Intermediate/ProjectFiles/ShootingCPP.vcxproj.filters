@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\ShootingCPP.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{14682E6C-2929-4616-B337-51C10817A758}</UniqueIdentifier>
+      <UniqueIdentifier>{573196E0-4067-48DB-BE4E-8869E2CFD794}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ShootingCPP.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{F40C87E0-6FE3-4237-A8C3-8D8F6F4A31BA}</UniqueIdentifier>
+      <UniqueIdentifier>{471E9AFB-0B6B-436F-9BE7-22AD51524E58}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +27,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\ShootingCPP">
-      <UniqueIdentifier>{86F642AB-4477-4574-AFB1-1EAE7CB1257E}</UniqueIdentifier>
+      <UniqueIdentifier>{9A079424-0EE0-4FFF-9194-3A56FFF81A14}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ShootingCPP\ShootingCPP.Build.cs">
       <Filter>Source\ShootingCPP</Filter>
@@ -45,7 +45,7 @@
       <Filter>Source\ShootingCPP</Filter>
     </ClInclude>
     <Filter Include="Source\ShootingCPP\Private">
-      <UniqueIdentifier>{C125A55D-6ED1-45A9-965E-CD5394C923A1}</UniqueIdentifier>
+      <UniqueIdentifier>{1B56E5EB-3042-488C-BE27-484103FEF7CF}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\ShootingCPP\Private\AccessTest.cpp">
       <Filter>Source\ShootingCPP\Private</Filter>
@@ -62,6 +62,15 @@
     <ClCompile Include="..\..\Source\ShootingCPP\Private\EnemyFactory.cpp">
       <Filter>Source\ShootingCPP\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\ShootingCPP\Private\KillZone.cpp">
+      <Filter>Source\ShootingCPP\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ShootingCPP\Private\MainWidget.cpp">
+      <Filter>Source\ShootingCPP\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ShootingCPP\Private\MenuWidget.cpp">
+      <Filter>Source\ShootingCPP\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\ShootingCPP\Private\PlayerPawn.cpp">
       <Filter>Source\ShootingCPP\Private</Filter>
     </ClCompile>
@@ -69,7 +78,7 @@
       <Filter>Source\ShootingCPP\Private</Filter>
     </ClCompile>
     <Filter Include="Source\ShootingCPP\Public">
-      <UniqueIdentifier>{CCAAE887-1793-4EAA-A913-BCF9A8494117}</UniqueIdentifier>
+      <UniqueIdentifier>{2C14D2F7-7FEA-4047-A384-32FB232373E9}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\ShootingCPP\Public\AccessTest.h">
       <Filter>Source\ShootingCPP\Public</Filter>
@@ -84,6 +93,15 @@
       <Filter>Source\ShootingCPP\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\ShootingCPP\Public\EnemyFactory.h">
+      <Filter>Source\ShootingCPP\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ShootingCPP\Public\KillZone.h">
+      <Filter>Source\ShootingCPP\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ShootingCPP\Public\MainWidget.h">
+      <Filter>Source\ShootingCPP\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ShootingCPP\Public\MenuWidget.h">
       <Filter>Source\ShootingCPP\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\ShootingCPP\Public\PlayerPawn.h">

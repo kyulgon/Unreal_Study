@@ -8,14 +8,25 @@
 #include "UObject/ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class UPrimitiveComponent;
+class AActor;
+struct FHitResult;
 #ifdef SHOOTINGCPP_Bullet_generated_h
 #error "Bullet.generated.h already included, missing '#pragma once' in Bullet.h"
 #endif
 #define SHOOTINGCPP_Bullet_generated_h
 
 #define ShootingCPP_Source_ShootingCPP_Public_Bullet_h_12_SPARSE_DATA
-#define ShootingCPP_Source_ShootingCPP_Public_Bullet_h_12_RPC_WRAPPERS
-#define ShootingCPP_Source_ShootingCPP_Public_Bullet_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define ShootingCPP_Source_ShootingCPP_Public_Bullet_h_12_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execOnBulletOverlap);
+
+
+#define ShootingCPP_Source_ShootingCPP_Public_Bullet_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execOnBulletOverlap);
+
+
 #define ShootingCPP_Source_ShootingCPP_Public_Bullet_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesABullet(); \

@@ -6,6 +6,7 @@
 #include "Components/StaticMeshComponent.h"
 #include "EngineUtils.h"
 #include "PlayerPawn.h"
+#include "ShootingGameModeBase.h"
 
 // Sets default values
 AEnemyActor::AEnemyActor()
@@ -48,6 +49,8 @@ void AEnemyActor::BeginPlay()
 	{
 		dir = GetActorForwardVector();
 	}
+
+	boxComp->OnComponentBeginOverlap.AddDynamic(this, &AEnemyActor::OnEnemyOverlap);
 }
 
 // Called every frame
@@ -60,3 +63,24 @@ void AEnemyActor::Tick(float DeltaTime)
 
 }
 
+void AEnemyActor::OnEnemyOverlap(UPrimitiveComponent* OverlappedComponent, AActor* OtherActor,
+	UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult)
+{
+	APlayerPawn* player = Cast<APlayerPawn>(OtherActor);
+	UE_LOG(LogTemp, Warning, TEXT("playerColl::Tick is called"));
+	if (player != nullptr)
+	{
+		OtherActor->Destroy();
+
+		// 현재 게임 모드를 가져온다
+		AShootingGameModeBase* currentGameMode = Cast<AShootingGameModeBase>(GetWorld()->GetAuthGameMode());
+
+		if (currentGameMode != nullptr)
+		{
+			// 메뉴 UI 생성 함수 호출
+			currentGameMode->ShowMenu();
+		}
+	}
+
+	Destroy();
+}

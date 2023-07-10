@@ -41,6 +41,7 @@ APlayerPawn::APlayerPawn()
 
 	// 적과 충돌 이벤트 체크
 	boxComp->SetCollisionResponseToChannel(ECC_GameTraceChannel2, ECR_Overlap);
+	boxComp->SetCollisionResponseToChannel(ECC_WorldStatic, ECR_Block);
 }
 
 // Called when the game starts or when spawned
@@ -59,7 +60,7 @@ void APlayerPawn::Tick(float DeltaTime)
 	dir.Normalize();
 
 	FVector newLocation = GetActorLocation() + dir * moveSpeed * DeltaTime;
-	SetActorLocation(newLocation);
+	SetActorLocation(newLocation, true);
 
 }
 
