@@ -1,0 +1,1526 @@
+﻿Log file open, 09/15/23 17:02:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Escape
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 71 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.868832
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.075s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: 13th Gen Intel(R) Core(TM) i7-13700KF, GPU: NVIDIA GeForce RTX 3060 Ti
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Unreal/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.09.15-08.02.54:932][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.09.15-08.02.54:932][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.09.15-08.02.54:932][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal/unreal_Study/Escape/Saved/Config/Windows/Engine.ini]
+[2023.09.15-08.02.54:932][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.09.15-08.02.54:932][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal/unreal_Study/Escape/Saved/Config/Windows/Engine.ini]
+[2023.09.15-08.02.54:932][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal/unreal_Study/Escape/Saved/Config/Windows/Engine.ini]
+[2023.09.15-08.02.54:932][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.09.15-08.02.54:932][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.09.15-08.02.54:932][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.09.15-08.02.54:932][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.09.15-08.02.54:932][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.09.15-08.02.54:932][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.09.15-08.02.54:932][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.09.15-08.02.54:932][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.09.15-08.02.54:932][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.09.15-08.02.54:932][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.09.15-08.02.54:932][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.09.15-08.02.54:932][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.09.15-08.02.54:932][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.09.15-08.02.54:932][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal/unreal_Study/Escape/Saved/Config/Windows/Engine.ini]
+[2023.09.15-08.02.54:932][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.09.15-08.02.54:932][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.09.15-08.02.54:932][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.09.15-08.02.54:932][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.09.15-08.02.54:932][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.09.15-08.02.54:932][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.09.15-08.02.54:932][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2023.09.15-08.02.54:932][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.09.15-08.02.54:932][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.09.15-08.02.54:932][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2023.09.15-08.02.54:932][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.09.15-08.02.54:932][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.09.15-08.02.54:932][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.09.15-08.02.54:932][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.09.15-08.02.54:932][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal/unreal_Study/Escape/Saved/Config/Windows/Engine.ini]
+[2023.09.15-08.02.54:932][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal/unreal_Study/Escape/Saved/Config/Windows/Engine.ini]
+[2023.09.15-08.02.54:937][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal/unreal_Study/Escape/Saved/Config/Windows/Scalability.ini]
+[2023.09.15-08.02.54:937][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.09.15-08.02.54:937][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.09.15-08.02.54:937][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal/unreal_Study/Escape/Saved/Config/Windows/Scalability.ini]
+[2023.09.15-08.02.54:937][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.09.15-08.02.54:937][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal/unreal_Study/Escape/Saved/Config/Windows/Scalability.ini]
+[2023.09.15-08.02.54:937][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.09.15-08.02.54:937][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.09.15-08.02.54:937][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.09.15-08.02.54:937][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.09.15-08.02.54:937][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.09.15-08.02.54:937][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.09.15-08.02.54:937][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.09.15-08.02.54:937][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.09.15-08.02.54:937][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.09.15-08.02.54:937][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.09.15-08.02.54:937][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.09.15-08.02.54:937][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.09.15-08.02.54:937][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.09.15-08.02.54:937][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.09.15-08.02.54:937][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.09.15-08.02.54:937][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.09.15-08.02.54:937][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.09.15-08.02.54:937][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.09.15-08.02.54:937][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal/unreal_Study/Escape/Saved/Config/Windows/Scalability.ini]
+[2023.09.15-08.02.54:937][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.09.15-08.02.54:937][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.09.15-08.02.54:937][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal/unreal_Study/Escape/Saved/Config/Windows/Scalability.ini]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal/unreal_Study/Escape/Saved/Config/Windows/Scalability.ini]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal/unreal_Study/Escape/Saved/Config/Windows/Scalability.ini]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.09.15-08.02.54:938][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.09.15-08.02.54:938][  0]LogInit: Selected Device Profile: [Windows]
+[2023.09.15-08.02.54:938][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.09.15-08.02.54:993][  0]LogHAL: Display: Platform has ~ 32 GB [34160058368 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.09.15-08.02.54:993][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2023.09.15-08.02.54:993][  0]LogInit: Going up to parent DeviceProfile []
+[2023.09.15-08.02.54:993][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal/unreal_Study/Escape/Saved/Config/Windows/Scalability.ini]
+[2023.09.15-08.02.54:993][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.09.15-08.02.54:993][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.09.15-08.02.54:993][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal/unreal_Study/Escape/Saved/Config/Windows/Scalability.ini]
+[2023.09.15-08.02.54:993][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.09.15-08.02.54:993][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal/unreal_Study/Escape/Saved/Config/Windows/Scalability.ini]
+[2023.09.15-08.02.54:993][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.09.15-08.02.54:993][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.09.15-08.02.54:993][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.09.15-08.02.54:993][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.09.15-08.02.54:993][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.09.15-08.02.54:993][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.09.15-08.02.54:993][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.09.15-08.02.54:993][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.09.15-08.02.54:993][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.09.15-08.02.54:993][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.09.15-08.02.54:993][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.09.15-08.02.54:993][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.09.15-08.02.54:993][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.09.15-08.02.54:993][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.09.15-08.02.54:993][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.09.15-08.02.54:993][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.09.15-08.02.54:993][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.09.15-08.02.54:993][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.09.15-08.02.54:993][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal/unreal_Study/Escape/Saved/Config/Windows/Scalability.ini]
+[2023.09.15-08.02.54:993][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.09.15-08.02.54:993][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.09.15-08.02.54:993][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.09.15-08.02.54:993][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.09.15-08.02.54:993][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.09.15-08.02.54:993][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.09.15-08.02.54:993][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal/unreal_Study/Escape/Saved/Config/Windows/Scalability.ini]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal/unreal_Study/Escape/Saved/Config/Windows/Scalability.ini]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal/unreal_Study/Escape/Saved/Config/Windows/Scalability.ini]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.09.15-08.02.54:994][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.09.15-08.02.54:995][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.09.15-08.02.54:995][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal/unreal_Study/Escape/Saved/Config/Windows/Engine.ini]
+[2023.09.15-08.02.54:995][  0]LogInit: Computer: DESKTOP-B4ST11S
+[2023.09.15-08.02.54:995][  0]LogInit: User: kyulgon
+[2023.09.15-08.02.54:995][  0]LogInit: CPU Page size=4096, Cores=16
+[2023.09.15-08.02.54:995][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.09.15-08.02.54:995][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2023.09.15-08.02.54:995][  0]LogMemory: Platform Memory Stats for Windows
+[2023.09.15-08.02.54:995][  0]LogMemory: Process Physical Memory: 109.71 MB used, 109.72 MB peak
+[2023.09.15-08.02.54:995][  0]LogMemory: Process Virtual Memory: 93.78 MB used, 93.78 MB peak
+[2023.09.15-08.02.54:995][  0]LogMemory: Physical Memory: 11914.50 MB used,  20663.07 MB free, 32577.57 MB total
+[2023.09.15-08.02.54:995][  0]LogMemory: Virtual Memory: 4710.50 MB used,  134213016.00 MB free, 134217728.00 MB total
+[2023.09.15-08.02.55:199][  0]LogInit: Using OS detected language (ko-KR).
+[2023.09.15-08.02.55:199][  0]LogInit: Using OS detected locale (ko-KR).
+[2023.09.15-08.02.55:218][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2023.09.15-08.02.55:595][  0]LogStreaming: Display: Took  0.396s to InitEngineTextLocalization.
+[2023.09.15-08.02.55:595][  0]LogInit: Setting process to per monitor DPI aware
+[2023.09.15-08.02.55:980][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.09.15-08.02.55:980][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.09.15-08.02.58:453][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.09.15-08.02.58:453][  0]LogD3D11RHI: D3D11 adapters:
+[2023.09.15-08.02.58:545][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060 Ti' (Feature Level 11_0)
+[2023.09.15-08.02.58:545][  0]LogD3D11RHI:       8050/0/16288 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2023.09.15-08.02.58:547][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.09.15-08.02.58:547][  0]LogD3D11RHI:       0/0/16288 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.09.15-08.02.58:547][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2023.09.15-08.02.58:551][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.09.15-08.02.58:551][  0]LogD3D11RHI:     GPU DeviceId: 0x2489 (for the marketing name, search the web for "GPU Device Id")
+[2023.09.15-08.02.58:551][  0]LogWindows: EnumDisplayDevices:
+[2023.09.15-08.02.58:551][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:1)
+[2023.09.15-08.02.58:551][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060 Ti' (P:1 D:1)
+[2023.09.15-08.02.58:551][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:1)
+[2023.09.15-08.02.58:552][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0)
+[2023.09.15-08.02.58:552][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.09.15-08.02.58:552][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Ti
+[2023.09.15-08.02.58:552][  0]LogD3D11RHI:   Driver Version: 471.41 (internal:30.0.14.7141, unified:471.41)
+[2023.09.15-08.02.58:552][  0]LogD3D11RHI:      Driver Date: 7-12-2021
+[2023.09.15-08.02.58:552][  0]LogRHI: Texture pool is 5635 MB (70% of 8050 MB)
+[2023.09.15-08.02.58:607][  0]LogD3D11RHI: Async texture creation enabled
+[2023.09.15-08.02.58:625][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2023.09.15-08.02.59:011][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2023.09.15-08.02.59:023][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2023.09.15-08.02.59:039][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2023.09.15-08.02.59:055][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2023.09.15-08.02.59:084][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2023.09.15-08.02.59:116][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2023.09.15-08.02.59:138][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2023.09.15-08.02.59:155][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2023.09.15-08.02.59:164][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2023.09.15-08.02.59:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2023.09.15-08.02.59:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2023.09.15-08.02.59:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2023.09.15-08.02.59:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2023.09.15-08.02.59:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2023.09.15-08.02.59:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2023.09.15-08.02.59:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2023.09.15-08.02.59:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2023.09.15-08.02.59:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2023.09.15-08.02.59:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2023.09.15-08.02.59:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2023.09.15-08.02.59:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2023.09.15-08.02.59:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2023.09.15-08.02.59:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2023.09.15-08.02.59:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2023.09.15-08.02.59:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2023.09.15-08.02.59:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2023.09.15-08.02.59:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2023.09.15-08.02.59:244][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2023.09.15-08.02.59:337][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2023.09.15-08.02.59:337][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2023.09.15-08.02.59:359][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2023.09.15-08.02.59:359][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2023.09.15-08.02.59:377][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2023.09.15-08.02.59:396][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2023.09.15-08.02.59:414][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2023.09.15-08.02.59:435][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2023.09.15-08.02.59:478][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2023.09.15-08.02.59:478][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2023.09.15-08.02.59:478][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.09.15-08.02.59:848][  0]LogShaderCompilers: Guid format shader working directory is 16 characters bigger than the processId version (../../../../unreal_Study/Escape/Intermediate/Shaders/WorkingDirectory/21968/).
+[2023.09.15-08.02.59:848][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kyulgon/AppData/Local/Temp/UnrealShaderWorkingDir/F41B5F784AD8C1B17F227AA973592273/'.
+[2023.09.15-08.02.59:849][  0]LogXGEController: Cleaning working directory: C:/Users/kyulgon/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.09.15-08.02.59:849][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.09.15-08.02.59:849][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.09.15-08.02.59:849][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.09.15-08.03.00:453][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.09.15-08.03.00:514][  0]LogDerivedDataCache: Loaded boot cache 0.06s 86MB C:/Users/kyulgon/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2023.09.15-08.03.00:514][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kyulgon/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2023.09.15-08.03.00:514][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../unreal_Study/Escape/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.09.15-08.03.00:514][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.09.15-08.03.00:514][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../unreal_Study/Escape/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.09.15-08.03.00:514][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.09.15-08.03.00:546][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.09.15-08.03.00:547][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.09.15-08.03.00:547][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.09.15-08.03.00:558][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kyulgon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.09.15-08.03.00:558][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.09.15-08.03.00:558][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.09.15-08.03.00:570][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2023.09.15-08.03.00:571][  0]LogSlate: Using FreeType 2.6.0
+[2023.09.15-08.03.00:607][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.09.15-08.03.01:979][  0]LogAssetRegistry: FAssetRegistry took 0.0271 seconds to start up
+[2023.09.15-08.03.02:174][  0]LogInit: Selected Device Profile: [Windows]
+[2023.09.15-08.03.02:698][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2023.09.15-08.03.02:824][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2023.09.15-08.03.02:824][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.09.15-08.03.02:824][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.09.15-08.03.02:824][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2023.09.15-08.03.02:834][  0]LogNetVersion: Escape 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1694198988)
+[2023.09.15-08.03.03:182][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.045223 seconds
+[2023.09.15-08.03.03:183][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2023.09.15-08.03.03:183][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2023.09.15-08.03.03:183][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.09.15-08.03.15:407][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.09.15-08.03.15:432][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.09.15-08.03.16:130][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.09.15-08.03.16:130][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.09.15-08.03.16:158][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.09.15-08.03.16:164][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.09.15-08.03.17:034][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.09.15-08.03.17:157][  0]LogOcInput: OculusInput pre-init called
+[2023.09.15-08.03.17:335][  0]LogEngine: Initializing Engine...
+[2023.09.15-08.03.17:335][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.09.15-08.03.17:336][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2023.09.15-08.03.17:336][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2023.09.15-08.03.17:336][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2023.09.15-08.03.17:336][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2023.09.15-08.03.17:509][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.09.15-08.03.17:569][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.09.15-08.03.17:592][  0]LogInit: XAudio2 using 'UMAX(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.09.15-08.03.17:603][  0]LogInit: FAudioDevice initialized.
+[2023.09.15-08.03.17:603][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.09.15-08.03.17:630][  0]LogDerivedDataCache: Saved boot cache 0.03s 71MB C:/Users/kyulgon/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2023.09.15-08.03.17:634][  0]LogInit: Texture streaming: Enabled
+[2023.09.15-08.03.17:681][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.09.15-08.03.17:715][  0]LogInit: Transaction tracking system initialized
+[2023.09.15-08.03.17:816][  0]BlueprintLog: New page: 에디터 로드
+[2023.09.15-08.03.18:240][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2023.09.15-08.03.19:000][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/unreal_Study/Escape/Content/' took 0.01s
+[2023.09.15-08.03.19:000][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2023.09.15-08.03.19:000][  0]LogCook: Display: Mobile HDR setting 1
+[2023.09.15-08.03.19:000][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2023.09.15-08.03.19:000][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2023.09.15-08.03.19:000][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2023.09.15-08.03.19:000][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2023.09.15-08.03.19:000][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2023.09.15-08.03.19:844][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.09.15-08.03.19:845][  0]Cmd: MAP LOAD FILE="../../../../unreal_Study/Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.09.15-08.03.19:945][  0]LightingResults: New page: 라이팅 빌드
+[2023.09.15-08.03.19:951][  0]MapCheck: New page: 맵 체크
+[2023.09.15-08.03.19:951][  0]LightingResults: New page: 라이팅 빌드
+[2023.09.15-08.03.20:678][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.09.15-08.03.20:684][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.15-08.03.20:708][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.15-08.03.20:708][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.086ms.
+[2023.09.15-08.03.20:708][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.864
+[2023.09.15-08.03.20:842][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-08.03.20:845][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-08.03.20:848][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-08.03.20:851][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-08.03.20:878][  0]LogCollectionManager: Loaded 0 collections in 0.000408 seconds
+[2023.09.15-08.03.20:912][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/unreal_Study/Escape/Saved/Collections/' took 0.01s
+[2023.09.15-08.03.20:912][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/unreal_Study/Escape/Content/Developers/kyulgon/Collections/' took 0.00s
+[2023.09.15-08.03.20:912][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/unreal_Study/Escape/Content/Collections/' took 0.01s
+[2023.09.15-08.03.20:912][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2023.09.15-08.03.20:916][  0]LogContentBrowser: Native class hierarchy populated in 0.0040 seconds. Added 2651 classes and 620 folders.
+[2023.09.15-08.03.20:925][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2023.09.15-08.03.20:979][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.09.15-08.03.21:007][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.09.15-08.03.21:019][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.09.15-08.03.21:028][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.09.15-08.03.21:029][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.09.15-08.03.21:037][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.09.15-08.03.21:048][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.09.15-08.03.21:057][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.09.15-08.03.21:063][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.09.15-08.03.21:070][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.09.15-08.03.21:073][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.09.15-08.03.21:082][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.09.15-08.03.21:090][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.09.15-08.03.21:102][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.09.15-08.03.21:109][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.09.15-08.03.21:113][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.09.15-08.03.21:118][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.09.15-08.03.21:123][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.09.15-08.03.21:131][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.09.15-08.03.21:133][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.09.15-08.03.21:144][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.09.15-08.03.21:145][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.09.15-08.03.21:157][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.09.15-08.03.21:168][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.09.15-08.03.21:177][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.09.15-08.03.21:188][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2023.09.15-08.03.21:439][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2023.09.15-08.03.21:481][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2023.09.15-08.03.21:526][  0]LogSlate: Took 0.036161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.09.15-08.03.21:639][  0]LogSlate: Took 0.112102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2023.09.15-08.03.21:701][  0]LogSlate: Took 0.062210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2023.09.15-08.03.21:730][  0]LogSlate: Took 0.029322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.09.15-08.03.21:757][  0]LogSlate: Took 0.025666 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.09.15-08.03.21:816][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2023.09.15-08.03.21:940][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.09.15-08.03.21:940][  0]LogLoad: (Engine Initialization) Total time: 31.99 seconds
+[2023.09.15-08.03.21:940][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.09.15-08.03.22:000][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.09.15-08.03.22:018][  0]LogSlate: Took 0.009054 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.09.15-08.03.22:039][  1]LogAssetRegistry: Asset discovery search completed in 20.0824 seconds
+[2023.09.15-08.03.22:040][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2023.09.15-08.03.22:040][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000022 seconds (updated 0 objects)
+[2023.09.15-08.03.23:376][  5]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.09.15-08.03.35:729][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.03.35:977][ 52]LogAssetEditorManager: Opening Asset editor for Material /Game/Maps/Level2/Mat_Red.Mat_Red
+[2023.09.15-08.03.35:978][ 52]LogMaterial: Display: Missing cached shader map for material Mat_Red, compiling. 
+[2023.09.15-08.03.36:253][ 52]LogMaterial: Display: Missing cached shader map for material Mat_Red, compiling. 
+[2023.09.15-08.03.36:263][ 52]LogMaterial: Display: Missing cached shader map for material Mat_Red, compiling. 
+[2023.09.15-08.03.36:286][ 52]LogShaderCompilers: Display: Shaders left to compile 30
+[2023.09.15-08.03.36:286][ 52]LogShaderCompilers: Display: Shaders left to compile 29
+[2023.09.15-08.03.36:286][ 52]LogShaderCompilers: Display: Shaders left to compile 28
+[2023.09.15-08.03.36:286][ 52]LogShaderCompilers: Display: Shaders left to compile 27
+[2023.09.15-08.03.36:286][ 52]LogShaderCompilers: Display: Shaders left to compile 26
+[2023.09.15-08.03.36:286][ 52]LogShaderCompilers: Display: Shaders left to compile 25
+[2023.09.15-08.03.36:286][ 52]LogShaderCompilers: Display: Shaders left to compile 24
+[2023.09.15-08.03.36:286][ 52]LogShaderCompilers: Display: Shaders left to compile 23
+[2023.09.15-08.03.36:286][ 52]LogShaderCompilers: Display: Shaders left to compile 22
+[2023.09.15-08.03.36:286][ 52]LogShaderCompilers: Display: Shaders left to compile 21
+[2023.09.15-08.03.36:286][ 52]LogShaderCompilers: Display: Shaders left to compile 20
+[2023.09.15-08.03.36:286][ 52]LogShaderCompilers: Display: Shaders left to compile 19
+[2023.09.15-08.03.36:286][ 52]LogShaderCompilers: Display: Shaders left to compile 18
+[2023.09.15-08.03.36:286][ 52]LogShaderCompilers: Display: Shaders left to compile 17
+[2023.09.15-08.03.36:286][ 52]LogShaderCompilers: Display: Shaders left to compile 16
+[2023.09.15-08.03.36:286][ 52]LogShaderCompilers: Display: Shaders left to compile 15
+[2023.09.15-08.03.36:286][ 52]LogShaderCompilers: Display: Shaders left to compile 14
+[2023.09.15-08.03.36:286][ 52]LogShaderCompilers: Display: Shaders left to compile 13
+[2023.09.15-08.03.36:286][ 52]LogShaderCompilers: Display: Shaders left to compile 12
+[2023.09.15-08.03.36:286][ 52]LogShaderCompilers: Display: Shaders left to compile 11
+[2023.09.15-08.03.36:298][ 52]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2023.09.15-08.03.36:314][ 52]LogAssetEditorManager: Opening Asset editor for Material /Game/Maps/Level2/Mat_Blue.Mat_Blue
+[2023.09.15-08.03.36:316][ 52]LogMaterial: Display: Missing cached shader map for material Mat_Blue, compiling. 
+[2023.09.15-08.03.36:351][ 52]LogMaterial: Display: Missing cached shader map for material Mat_Blue, compiling. 
+[2023.09.15-08.03.36:362][ 52]LogMaterial: Display: Missing cached shader map for material Mat_Blue, compiling. 
+[2023.09.15-08.03.36:400][ 52]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2023.09.15-08.03.36:415][ 52]LogAssetEditorManager: Opening Asset editor for Material /Game/Maps/Level2/Mat_Green.Mat_Green
+[2023.09.15-08.03.36:417][ 52]LogMaterial: Display: Missing cached shader map for material Mat_Green, compiling. 
+[2023.09.15-08.03.36:465][ 52]LogMaterial: Display: Missing cached shader map for material Mat_Green, compiling. 
+[2023.09.15-08.03.36:477][ 52]LogMaterial: Display: Missing cached shader map for material Mat_Green, compiling. 
+[2023.09.15-08.03.36:513][ 52]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2023.09.15-08.03.36:529][ 52]LogAssetEditorManager: Opening Asset editor for Material /Game/Maps/Level2/Mat_Yellow.Mat_Yellow
+[2023.09.15-08.03.36:530][ 52]LogMaterial: Display: Missing cached shader map for material Mat_Yellow, compiling. 
+[2023.09.15-08.03.36:565][ 52]LogMaterial: Display: Missing cached shader map for material Mat_Yellow, compiling. 
+[2023.09.15-08.03.36:579][ 52]LogMaterial: Display: Missing cached shader map for material Mat_Yellow, compiling. 
+[2023.09.15-08.03.36:617][ 52]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2023.09.15-08.03.36:641][ 52]LogLinker: Warning: 애셋 이름을 해석할 수 없습니다.
+[2023.09.15-08.03.36:658][ 52]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Maps/Level2/BP_SwitchUI.BP_SwitchUI
+[2023.09.15-08.03.36:858][ 52]LogShaderCompilers: Display: Shaders left to compile 108
+[2023.09.15-08.03.36:858][ 52]LogShaderCompilers: Display: Shaders left to compile 107
+[2023.09.15-08.03.36:858][ 52]LogShaderCompilers: Display: Shaders left to compile 106
+[2023.09.15-08.03.36:858][ 52]LogShaderCompilers: Display: Shaders left to compile 105
+[2023.09.15-08.03.36:858][ 52]LogShaderCompilers: Display: Shaders left to compile 104
+[2023.09.15-08.03.36:858][ 52]LogShaderCompilers: Display: Shaders left to compile 103
+[2023.09.15-08.03.36:858][ 52]LogShaderCompilers: Display: Shaders left to compile 102
+[2023.09.15-08.03.36:858][ 52]LogShaderCompilers: Display: Shaders left to compile 101
+[2023.09.15-08.03.36:858][ 52]LogShaderCompilers: Display: Shaders left to compile 100
+[2023.09.15-08.03.36:858][ 52]LogShaderCompilers: Display: Shaders left to compile 99
+[2023.09.15-08.03.36:858][ 52]LogShaderCompilers: Display: Shaders left to compile 98
+[2023.09.15-08.03.36:871][ 52]LogShaderCompilers: Display: Shaders left to compile 97
+[2023.09.15-08.03.36:874][ 52]LogShaderCompilers: Display: Shaders left to compile 96
+[2023.09.15-08.03.36:881][ 52]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0003 seconds. Added 117 classes and 0 folders.
+[2023.09.15-08.03.37:244][ 52]LogShaderCompilers: Display: Shaders left to compile 95
+[2023.09.15-08.03.37:244][ 52]LogShaderCompilers: Display: Shaders left to compile 94
+[2023.09.15-08.03.37:244][ 52]LogShaderCompilers: Display: Shaders left to compile 93
+[2023.09.15-08.03.37:244][ 52]LogShaderCompilers: Display: Shaders left to compile 92
+[2023.09.15-08.03.37:244][ 52]LogShaderCompilers: Display: Shaders left to compile 91
+[2023.09.15-08.03.37:244][ 52]LogShaderCompilers: Display: Shaders left to compile 90
+[2023.09.15-08.03.37:244][ 52]LogShaderCompilers: Display: Shaders left to compile 89
+[2023.09.15-08.03.37:244][ 52]LogShaderCompilers: Display: Shaders left to compile 88
+[2023.09.15-08.03.37:244][ 52]LogShaderCompilers: Display: Shaders left to compile 87
+[2023.09.15-08.03.37:244][ 52]LogShaderCompilers: Display: Shaders left to compile 86
+[2023.09.15-08.03.37:244][ 52]LogShaderCompilers: Display: Shaders left to compile 85
+[2023.09.15-08.03.37:244][ 52]LogShaderCompilers: Display: Shaders left to compile 84
+[2023.09.15-08.03.37:244][ 52]LogShaderCompilers: Display: Shaders left to compile 83
+[2023.09.15-08.03.37:244][ 52]LogShaderCompilers: Display: Shaders left to compile 82
+[2023.09.15-08.03.37:244][ 52]LogShaderCompilers: Display: Shaders left to compile 81
+[2023.09.15-08.03.37:244][ 52]LogShaderCompilers: Display: Shaders left to compile 80
+[2023.09.15-08.03.37:244][ 52]LogShaderCompilers: Display: Shaders left to compile 79
+[2023.09.15-08.03.37:244][ 52]LogShaderCompilers: Display: Shaders left to compile 78
+[2023.09.15-08.03.37:244][ 52]LogShaderCompilers: Display: Shaders left to compile 77
+[2023.09.15-08.03.37:244][ 52]LogShaderCompilers: Display: Shaders left to compile 76
+[2023.09.15-08.03.37:244][ 52]LogShaderCompilers: Display: Shaders left to compile 75
+[2023.09.15-08.03.37:244][ 52]LogShaderCompilers: Display: Shaders left to compile 74
+[2023.09.15-08.03.37:244][ 52]LogShaderCompilers: Display: Shaders left to compile 73
+[2023.09.15-08.03.37:245][ 52]LogShaderCompilers: Display: Shaders left to compile 72
+[2023.09.15-08.03.37:245][ 52]LogShaderCompilers: Display: Shaders left to compile 71
+[2023.09.15-08.03.37:245][ 52]LogShaderCompilers: Display: Shaders left to compile 70
+[2023.09.15-08.03.37:245][ 52]LogShaderCompilers: Display: Shaders left to compile 69
+[2023.09.15-08.03.37:245][ 52]LogShaderCompilers: Display: Shaders left to compile 68
+[2023.09.15-08.03.37:245][ 52]LogShaderCompilers: Display: Shaders left to compile 67
+[2023.09.15-08.03.37:257][ 52]LogShaderCompilers: Display: Shaders left to compile 66
+[2023.09.15-08.03.37:257][ 52]MaterialEditorStats: Base pass shader: 104 instructions
+[2023.09.15-08.03.37:257][ 52]MaterialEditorStats: Base pass shader with Surface Lightmap: 122 instructions
+[2023.09.15-08.03.37:257][ 52]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2023.09.15-08.03.37:257][ 52]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2023.09.15-08.03.37:257][ 52]MaterialEditorStats: Texture samplers: 3/16
+[2023.09.15-08.03.37:273][ 52]LogSlate: Took 0.013298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.09.15-08.03.37:296][ 53]LogSlate: Took 0.001673 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2023.09.15-08.03.37:349][ 58]LogShaderCompilers: Display: Shaders left to compile 65
+[2023.09.15-08.03.37:399][ 64]LogShaderCompilers: Display: Shaders left to compile 64
+[2023.09.15-08.03.37:399][ 64]LogShaderCompilers: Display: Shaders left to compile 63
+[2023.09.15-08.03.37:409][ 65]LogShaderCompilers: Display: Shaders left to compile 62
+[2023.09.15-08.03.37:409][ 65]LogShaderCompilers: Display: Shaders left to compile 61
+[2023.09.15-08.03.37:433][ 68]LogShaderCompilers: Display: Shaders left to compile 60
+[2023.09.15-08.03.37:443][ 69]LogShaderCompilers: Display: Shaders left to compile 59
+[2023.09.15-08.03.37:443][ 69]LogShaderCompilers: Display: Shaders left to compile 58
+[2023.09.15-08.03.37:443][ 69]LogShaderCompilers: Display: Shaders left to compile 57
+[2023.09.15-08.03.37:532][ 80]LogShaderCompilers: Display: Shaders left to compile 56
+[2023.09.15-08.03.37:532][ 80]LogShaderCompilers: Display: Shaders left to compile 55
+[2023.09.15-08.03.37:541][ 81]LogShaderCompilers: Display: Shaders left to compile 54
+[2023.09.15-08.03.37:558][ 83]LogShaderCompilers: Display: Shaders left to compile 53
+[2023.09.15-08.03.37:558][ 83]LogShaderCompilers: Display: Shaders left to compile 52
+[2023.09.15-08.03.37:558][ 83]LogShaderCompilers: Display: Shaders left to compile 51
+[2023.09.15-08.03.37:566][ 84]LogShaderCompilers: Display: Shaders left to compile 50
+[2023.09.15-08.03.37:566][ 84]LogShaderCompilers: Display: Shaders left to compile 49
+[2023.09.15-08.03.37:575][ 85]LogShaderCompilers: Display: Shaders left to compile 48
+[2023.09.15-08.03.37:575][ 85]LogShaderCompilers: Display: Shaders left to compile 47
+[2023.09.15-08.03.37:575][ 85]LogShaderCompilers: Display: Shaders left to compile 46
+[2023.09.15-08.03.37:575][ 85]LogShaderCompilers: Display: Shaders left to compile 45
+[2023.09.15-08.03.37:584][ 86]LogShaderCompilers: Display: Shaders left to compile 44
+[2023.09.15-08.03.37:593][ 87]LogShaderCompilers: Display: Shaders left to compile 43
+[2023.09.15-08.03.37:593][ 87]LogShaderCompilers: Display: Shaders left to compile 42
+[2023.09.15-08.03.37:601][ 88]LogShaderCompilers: Display: Shaders left to compile 41
+[2023.09.15-08.03.37:601][ 88]LogShaderCompilers: Display: Shaders left to compile 40
+[2023.09.15-08.03.37:601][ 88]LogShaderCompilers: Display: Shaders left to compile 39
+[2023.09.15-08.03.37:610][ 89]LogShaderCompilers: Display: Shaders left to compile 38
+[2023.09.15-08.03.37:613][ 89]MaterialEditorStats: Base pass shader: 104 instructions
+[2023.09.15-08.03.37:613][ 89]MaterialEditorStats: Base pass shader with Surface Lightmap: 122 instructions
+[2023.09.15-08.03.37:613][ 89]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2023.09.15-08.03.37:613][ 89]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2023.09.15-08.03.37:613][ 89]MaterialEditorStats: Texture samplers: 3/16
+[2023.09.15-08.03.37:637][ 92]LogShaderCompilers: Display: Shaders left to compile 37
+[2023.09.15-08.03.37:671][ 96]LogShaderCompilers: Display: Shaders left to compile 36
+[2023.09.15-08.03.37:729][103]LogShaderCompilers: Display: Shaders left to compile 35
+[2023.09.15-08.03.37:746][105]LogShaderCompilers: Display: Shaders left to compile 34
+[2023.09.15-08.03.37:746][105]LogShaderCompilers: Display: Shaders left to compile 33
+[2023.09.15-08.03.37:820][114]LogShaderCompilers: Display: Shaders left to compile 32
+[2023.09.15-08.03.37:820][114]LogShaderCompilers: Display: Shaders left to compile 31
+[2023.09.15-08.03.37:886][122]LogShaderCompilers: Display: Shaders left to compile 30
+[2023.09.15-08.03.37:927][127]LogShaderCompilers: Display: Shaders left to compile 29
+[2023.09.15-08.03.37:927][127]LogShaderCompilers: Display: Shaders left to compile 28
+[2023.09.15-08.03.37:927][127]LogShaderCompilers: Display: Shaders left to compile 27
+[2023.09.15-08.03.37:936][128]LogShaderCompilers: Display: Shaders left to compile 26
+[2023.09.15-08.03.37:936][128]LogShaderCompilers: Display: Shaders left to compile 25
+[2023.09.15-08.03.37:954][130]LogShaderCompilers: Display: Shaders left to compile 24
+[2023.09.15-08.03.37:963][131]LogShaderCompilers: Display: Shaders left to compile 23
+[2023.09.15-08.03.37:970][132]LogShaderCompilers: Display: Shaders left to compile 22
+[2023.09.15-08.03.37:978][133]LogShaderCompilers: Display: Shaders left to compile 21
+[2023.09.15-08.03.37:978][133]LogShaderCompilers: Display: Shaders left to compile 20
+[2023.09.15-08.03.37:995][135]LogShaderCompilers: Display: Shaders left to compile 19
+[2023.09.15-08.03.38:004][136]LogShaderCompilers: Display: Shaders left to compile 18
+[2023.09.15-08.03.38:012][137]LogShaderCompilers: Display: Shaders left to compile 17
+[2023.09.15-08.03.38:022][138]LogShaderCompilers: Display: Shaders left to compile 16
+[2023.09.15-08.03.38:022][138]LogShaderCompilers: Display: Shaders left to compile 15
+[2023.09.15-08.03.38:031][139]LogShaderCompilers: Display: Shaders left to compile 14
+[2023.09.15-08.03.38:031][139]LogShaderCompilers: Display: Shaders left to compile 13
+[2023.09.15-08.03.38:042][140]LogShaderCompilers: Display: Shaders left to compile 12
+[2023.09.15-08.03.38:042][140]LogShaderCompilers: Display: Shaders left to compile 11
+[2023.09.15-08.03.38:042][140]LogShaderCompilers: Display: Shaders left to compile 10
+[2023.09.15-08.03.38:042][140]LogShaderCompilers: Display: Shaders left to compile 9
+[2023.09.15-08.03.38:044][140]MaterialEditorStats: Base pass shader: 104 instructions
+[2023.09.15-08.03.38:044][140]MaterialEditorStats: Base pass shader with Surface Lightmap: 122 instructions
+[2023.09.15-08.03.38:044][140]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2023.09.15-08.03.38:044][140]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2023.09.15-08.03.38:044][140]MaterialEditorStats: Texture samplers: 3/16
+[2023.09.15-08.03.38:051][141]LogShaderCompilers: Display: Shaders left to compile 8
+[2023.09.15-08.03.38:051][141]LogShaderCompilers: Display: Shaders left to compile 7
+[2023.09.15-08.03.38:062][142]LogShaderCompilers: Display: Shaders left to compile 6
+[2023.09.15-08.03.38:062][142]LogShaderCompilers: Display: Shaders left to compile 5
+[2023.09.15-08.03.38:076][143]LogShaderCompilers: Display: Shaders left to compile 4
+[2023.09.15-08.03.38:167][153]LogShaderCompilers: Display: Shaders left to compile 3
+[2023.09.15-08.03.38:222][159]LogShaderCompilers: Display: Shaders left to compile 2
+[2023.09.15-08.03.38:238][161]LogShaderCompilers: Display: Shaders left to compile 1
+[2023.09.15-08.03.38:467][188]MaterialEditorStats: Base pass shader: 104 instructions
+[2023.09.15-08.03.38:467][188]MaterialEditorStats: Base pass shader with Surface Lightmap: 122 instructions
+[2023.09.15-08.03.38:467][188]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2023.09.15-08.03.38:467][188]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2023.09.15-08.03.38:467][188]MaterialEditorStats: Texture samplers: 3/16
+[2023.09.15-08.03.49:928][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.03.53:389][321]LogAIModule: Creating AISystem for world Level2
+[2023.09.15-08.03.53:395][321]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Level2/Level2.Level2
+[2023.09.15-08.03.53:429][321]Cmd: MAP LOAD FILE="../../../../unreal_Study/Escape/Content/Maps/Level2/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.09.15-08.03.53:429][321]LightingResults: New page: 라이팅 빌드
+[2023.09.15-08.03.53:429][321]LoadErrors: New page: 맵 로드중: Level2.umap
+[2023.09.15-08.03.53:429][321]MapCheck: New page: 맵 체크
+[2023.09.15-08.03.53:429][321]LightingResults: New page: 라이팅 빌드
+[2023.09.15-08.03.53:455][321]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.15-08.03.53:481][321]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.15-08.03.53:481][321]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.062ms.
+[2023.09.15-08.03.53:481][321]LogFileHelpers: Loading map 'Level2' took 0.053
+[2023.09.15-08.03.56:652][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.03.57:069][750]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.09.15-08.03.57:074][750]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.03.57:074][750]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.15-08.03.57:074][750]PIE: New page: PIE 세션: Level2 (2023. 9. 16. 오전 2:03:57)
+[2023.09.15-08.03.57:085][750]LogPlayLevel: Creating play world package: /Game/Maps/Level2/UEDPIE_0_Level2
+[2023.09.15-08.03.57:088][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003428s)
+[2023.09.15-08.03.57:089][750]LogAIModule: Creating AISystem for world Level2
+[2023.09.15-08.03.57:089][750]LogPlayLevel: PIE: World Init took: (0.000430s)
+[2023.09.15-08.03.57:089][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level2/Level2.Level2 to /Game/Maps/Level2/UEDPIE_0_Level2.Level2 (0.004018s)
+[2023.09.15-08.03.57:131][750]LogInit: XAudio2 using 'UMAX(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.09.15-08.03.57:137][750]LogInit: FAudioDevice initialized.
+[2023.09.15-08.03.57:174][750]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.09.15-08.03.57:174][750]LogWorld: Bringing World /Game/Maps/Level2/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2023.09.15-17.03.57
+[2023.09.15-08.03.57:175][750]LogWorld: Bringing up level for play took: 0.000553
+[2023.09.15-08.03.57:290][750]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2023.09.15-08.03.57:292][750]PIE: /Game/Maps/Level2/UEDPIE_0_Level2 에 대한 에디터에서 플레이 시작 시간: 0.473
+[2023.09.15-08.03.57:292][750]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.03.59:359][997]LogBlueprintUserMessages: [Level2_C_35] F키를 눌렀다
+[2023.09.15-08.03.59:718][ 40]LogBlueprintUserMessages: [Level2_C_35] F키를 눌렀다
+[2023.09.15-08.03.59:950][ 68]LogBlueprintUserMessages: [Level2_C_35] F키를 눌렀다
+[2023.09.15-08.04.00:126][ 89]LogBlueprintUserMessages: [Level2_C_35] F키를 눌렀다
+[2023.09.15-08.04.00:476][131]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.04.00:477][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-08.04.00:510][131]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.15-08.04.00:510][131]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.04.00:533][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-08.04.00:579][136]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.09.15-08.04.23:563][653]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.09.15-08.04.28:854][254]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.09.15-08.04.29:754][347]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.09.15-08.04.29:756][347]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2
+[2023.09.15-08.04.29:910][348]LogSlate: Took 0.001514 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.09.15-08.05.53:058][282]BlueprintLog: New page: Level2 컴파일
+[2023.09.15-08.05.53:137][282]LogBlueprint: Error: [Compiler PersistentLevel.Level2] 이 블루프린트(셀프)는 PlayerController 이지 않으므로, ' 타깃 ' 에 연결이 있어야 합니다.
+[2023.09.15-08.05.53:217][282]LogBlueprint: Error: [Compiler PersistentLevel.Level2] bShowMouseCursor 설정  변수 노드가 유효하지 않은 타깃을 사용합니다. 실행 체인에 연결되지 않았다가 제거된 노드에 의존하는 것 같습니다.
+[2023.09.15-08.05.53:457][282]LogBlueprint: Warning: [Compiler PersistentLevel.Level2] [0183.51] PersistentLevel.Level2 컴파일에 실패했습니다. 치명적 오류 2 회, 경고 0 회, [소요시간 398 ms] (/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2)
+[2023.09.15-08.06.30:476][692]BlueprintLog: New page: Level2 컴파일
+[2023.09.15-08.06.31:308][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level2/Level2" FILE="../../../../unreal_Study/Escape/Content/Maps/Level2/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.15-08.06.31:416][775]LogSavePackage: Moving '../../../../unreal_Study/Escape/Saved/Level22D08888D48D5C5706046518D5F682CF7.tmp' to '../../../../unreal_Study/Escape/Content/Maps/Level2/Level2.umap'
+[2023.09.15-08.06.31:421][775]LogFileHelpers: Saving map 'Level2' took 0.114
+[2023.09.15-08.06.54:129][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.06.55:820][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.06.55:894][710]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.09.15-08.06.55:900][710]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.06.55:900][710]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.15-08.06.55:900][710]PIE: New page: PIE 세션: Level2 (2023. 9. 16. 오전 2:06:55)
+[2023.09.15-08.06.55:900][710]LogPlayLevel: Creating play world package: /Game/Maps/Level2/UEDPIE_0_Level2
+[2023.09.15-08.06.55:903][710]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003023s)
+[2023.09.15-08.06.55:904][710]LogAIModule: Creating AISystem for world Level2
+[2023.09.15-08.06.55:904][710]LogPlayLevel: PIE: World Init took: (0.000373s)
+[2023.09.15-08.06.55:904][710]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level2/Level2.Level2 to /Game/Maps/Level2/UEDPIE_0_Level2.Level2 (0.003478s)
+[2023.09.15-08.06.55:946][710]LogInit: XAudio2 using 'UMAX(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.09.15-08.06.55:953][710]LogInit: FAudioDevice initialized.
+[2023.09.15-08.06.55:979][710]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.09.15-08.06.55:980][710]LogWorld: Bringing World /Game/Maps/Level2/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2023.09.15-17.06.55
+[2023.09.15-08.06.55:980][710]LogWorld: Bringing up level for play took: 0.000533
+[2023.09.15-08.06.55:993][710]PIE: /Game/Maps/Level2/UEDPIE_0_Level2 에 대한 에디터에서 플레이 시작 시간: -0.825
+[2023.09.15-08.06.55:993][710]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.06.58:049][956]LogBlueprintUserMessages: [Level2_C_2] F키를 눌렀다
+[2023.09.15-08.07.03:334][589]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.07.03:334][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-08.07.03:363][589]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.15-08.07.03:363][589]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.07.03:386][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-08.07.03:442][595]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.09.15-08.07.07:877][793]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.09.15-08.07.12:472][324]BlueprintLog: New page: Level2 컴파일
+[2023.09.15-08.07.12:837][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level2/Level2" FILE="../../../../unreal_Study/Escape/Content/Maps/Level2/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.15-08.07.12:941][356]LogSavePackage: Moving '../../../../unreal_Study/Escape/Saved/Level280D00E5C40FD2356AFD65A9E18D00FA2.tmp' to '../../../../unreal_Study/Escape/Content/Maps/Level2/Level2.umap'
+[2023.09.15-08.07.12:947][356]LogFileHelpers: Saving map 'Level2' took 0.112
+[2023.09.15-08.07.13:729][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.07.14:695][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.07.14:761][572]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.09.15-08.07.14:767][572]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.07.14:767][572]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.15-08.07.14:767][572]PIE: New page: PIE 세션: Level2 (2023. 9. 16. 오전 2:07:14)
+[2023.09.15-08.07.14:767][572]LogPlayLevel: Creating play world package: /Game/Maps/Level2/UEDPIE_0_Level2
+[2023.09.15-08.07.14:770][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003438s)
+[2023.09.15-08.07.14:771][572]LogAIModule: Creating AISystem for world Level2
+[2023.09.15-08.07.14:771][572]LogPlayLevel: PIE: World Init took: (0.000389s)
+[2023.09.15-08.07.14:771][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level2/Level2.Level2 to /Game/Maps/Level2/UEDPIE_0_Level2.Level2 (0.003896s)
+[2023.09.15-08.07.14:813][572]LogInit: XAudio2 using 'UMAX(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.09.15-08.07.14:819][572]LogInit: FAudioDevice initialized.
+[2023.09.15-08.07.14:846][572]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.09.15-08.07.14:847][572]LogWorld: Bringing World /Game/Maps/Level2/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2023.09.15-17.07.14
+[2023.09.15-08.07.14:847][572]LogWorld: Bringing up level for play took: 0.000524
+[2023.09.15-08.07.14:859][572]PIE: /Game/Maps/Level2/UEDPIE_0_Level2 에 대한 에디터에서 플레이 시작 시간: 0.041
+[2023.09.15-08.07.14:859][572]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.07.16:542][773]LogBlueprintUserMessages: [Level2_C_4] F키를 눌렀다
+[2023.09.15-08.07.18:167][968]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.07.18:167][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-08.07.18:197][968]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.15-08.07.18:197][968]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.07.18:220][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-08.07.18:269][973]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.09.15-08.07.30:449][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.07.30:674][ 54]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.09.15-08.07.30:680][ 54]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.07.30:680][ 54]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.15-08.07.30:680][ 54]PIE: New page: PIE 세션: Level2 (2023. 9. 16. 오전 2:07:30)
+[2023.09.15-08.07.30:680][ 54]LogPlayLevel: Creating play world package: /Game/Maps/Level2/UEDPIE_0_Level2
+[2023.09.15-08.07.30:683][ 54]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003066s)
+[2023.09.15-08.07.30:683][ 54]LogAIModule: Creating AISystem for world Level2
+[2023.09.15-08.07.30:683][ 54]LogPlayLevel: PIE: World Init took: (0.000393s)
+[2023.09.15-08.07.30:683][ 54]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level2/Level2.Level2 to /Game/Maps/Level2/UEDPIE_0_Level2.Level2 (0.003538s)
+[2023.09.15-08.07.30:725][ 54]LogInit: XAudio2 using 'UMAX(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.09.15-08.07.30:731][ 54]LogInit: FAudioDevice initialized.
+[2023.09.15-08.07.30:761][ 54]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.09.15-08.07.30:762][ 54]LogWorld: Bringing World /Game/Maps/Level2/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2023.09.15-17.07.30
+[2023.09.15-08.07.30:762][ 54]LogWorld: Bringing up level for play took: 0.000814
+[2023.09.15-08.07.30:775][ 54]PIE: /Game/Maps/Level2/UEDPIE_0_Level2 에 대한 에디터에서 플레이 시작 시간: -0.043
+[2023.09.15-08.07.30:775][ 54]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.07.36:531][745]LogBlueprintUserMessages: [Level2_C_4] F키를 눌렀다
+[2023.09.15-08.07.37:207][826]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.07.37:207][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-08.07.37:238][826]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.15-08.07.37:239][826]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.07.37:264][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-08.07.37:310][831]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.09.15-08.07.40:132][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.09.15-08.07.50:590][345]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.09.15-08.07.50:594][345]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.07.50:594][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.15-08.07.50:594][345]PIE: New page: PIE 세션: Level2 (2023. 9. 16. 오전 2:07:50)
+[2023.09.15-08.07.50:594][345]LogPlayLevel: Creating play world package: /Game/Maps/Level2/UEDPIE_0_Level2
+[2023.09.15-08.07.50:598][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003216s)
+[2023.09.15-08.07.50:598][345]LogAIModule: Creating AISystem for world Level2
+[2023.09.15-08.07.50:598][345]LogPlayLevel: PIE: World Init took: (0.000368s)
+[2023.09.15-08.07.50:598][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level2/Level2.Level2 to /Game/Maps/Level2/UEDPIE_0_Level2.Level2 (0.003650s)
+[2023.09.15-08.07.50:639][345]LogInit: XAudio2 using 'UMAX(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.09.15-08.07.50:646][345]LogInit: FAudioDevice initialized.
+[2023.09.15-08.07.50:675][345]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.09.15-08.07.50:676][345]LogWorld: Bringing World /Game/Maps/Level2/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2023.09.15-17.07.50
+[2023.09.15-08.07.50:676][345]LogWorld: Bringing up level for play took: 0.000536
+[2023.09.15-08.07.50:689][345]PIE: /Game/Maps/Level2/UEDPIE_0_Level2 에 대한 에디터에서 플레이 시작 시간: -0.129
+[2023.09.15-08.07.50:690][345]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.07.52:016][503]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.07.52:016][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-08.07.52:049][503]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.15-08.07.52:049][503]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.07.52:072][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-08.07.52:117][507]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.09.15-08.08.00:710][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.09.07:866][725]BlueprintLog: New page: Level2 컴파일
+[2023.09.15-08.09.08:328][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level2/Level2" FILE="../../../../unreal_Study/Escape/Content/Maps/Level2/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.15-08.09.08:434][769]LogSavePackage: Moving '../../../../unreal_Study/Escape/Saved/Level22162428D47BB47D8B30E7EAD1BFC0222.tmp' to '../../../../unreal_Study/Escape/Content/Maps/Level2/Level2.umap'
+[2023.09.15-08.09.08:440][769]LogFileHelpers: Saving map 'Level2' took 0.112
+[2023.09.15-08.09.09:427][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.09.10:902][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.09.10:976][ 71]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.09.15-08.09.10:982][ 71]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.09.10:982][ 71]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.15-08.09.10:982][ 71]PIE: New page: PIE 세션: Level2 (2023. 9. 16. 오전 2:09:10)
+[2023.09.15-08.09.10:982][ 71]LogPlayLevel: Creating play world package: /Game/Maps/Level2/UEDPIE_0_Level2
+[2023.09.15-08.09.10:985][ 71]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003061s)
+[2023.09.15-08.09.10:986][ 71]LogAIModule: Creating AISystem for world Level2
+[2023.09.15-08.09.10:986][ 71]LogPlayLevel: PIE: World Init took: (0.000485s)
+[2023.09.15-08.09.10:986][ 71]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level2/Level2.Level2 to /Game/Maps/Level2/UEDPIE_0_Level2.Level2 (0.003635s)
+[2023.09.15-08.09.11:026][ 71]LogInit: XAudio2 using 'UMAX(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.09.15-08.09.11:032][ 71]LogInit: FAudioDevice initialized.
+[2023.09.15-08.09.11:063][ 71]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.09.15-08.09.11:064][ 71]LogWorld: Bringing World /Game/Maps/Level2/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2023.09.15-17.09.11
+[2023.09.15-08.09.11:064][ 71]LogWorld: Bringing up level for play took: 0.000530
+[2023.09.15-08.09.11:076][ 71]PIE: /Game/Maps/Level2/UEDPIE_0_Level2 에 대한 에디터에서 플레이 시작 시간: 0.258
+[2023.09.15-08.09.11:076][ 71]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.09.11:807][158]LogBlueprintUserMessages: [Level2_C_6] F키를 눌렀다
+[2023.09.15-08.09.16:561][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.09.19:144][ 37]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.09.19:145][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-08.09.19:177][ 37]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.15-08.09.19:177][ 37]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.09.19:200][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-08.09.19:252][ 43]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.09.15-08.09.21:326][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level2/Level2" FILE="../../../../unreal_Study/Escape/Content/Maps/Level2/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.15-08.09.21:428][291]LogSavePackage: Moving '../../../../unreal_Study/Escape/Saved/Level2D82CE6B248B6DE07943C2490CAD5219C.tmp' to '../../../../unreal_Study/Escape/Content/Maps/Level2/Level2.umap'
+[2023.09.15-08.09.21:435][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level2/Level2_BuiltData" FILE="../../../../unreal_Study/Escape/Content/Maps/Level2/Level2_BuiltData.uasset" SILENT=true
+[2023.09.15-08.09.21:447][291]LogSavePackage: Moving '../../../../unreal_Study/Escape/Saved/Level2_BuiltDataBB2EBA3B49893F5D135B839A8E2086EE.tmp' to '../../../../unreal_Study/Escape/Content/Maps/Level2/Level2_BuiltData.uasset'
+[2023.09.15-08.09.23:170][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.09.25:437][765]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Door)
+[2023.09.15-08.09.25:459][765]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.09.15-08.09.26:944][913]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.15-08.09.27:718][  6]Cmd: SELECT NONE
+[2023.09.15-08.09.30:494][337]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.09.15-08.09.41:829][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.09.41:896][704]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.09.15-08.09.41:901][704]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.09.41:901][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.15-08.09.41:901][704]PIE: New page: PIE 세션: Level2 (2023. 9. 16. 오전 2:09:41)
+[2023.09.15-08.09.41:901][704]LogPlayLevel: Creating play world package: /Game/Maps/Level2/UEDPIE_0_Level2
+[2023.09.15-08.09.41:905][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003105s)
+[2023.09.15-08.09.41:905][704]LogAIModule: Creating AISystem for world Level2
+[2023.09.15-08.09.41:905][704]LogPlayLevel: PIE: World Init took: (0.000390s)
+[2023.09.15-08.09.41:905][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level2/Level2.Level2 to /Game/Maps/Level2/UEDPIE_0_Level2.Level2 (0.003562s)
+[2023.09.15-08.09.41:946][704]LogInit: XAudio2 using 'UMAX(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.09.15-08.09.41:953][704]LogInit: FAudioDevice initialized.
+[2023.09.15-08.09.41:979][704]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.09.15-08.09.41:980][704]LogWorld: Bringing World /Game/Maps/Level2/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2023.09.15-17.09.41
+[2023.09.15-08.09.41:980][704]LogWorld: Bringing up level for play took: 0.000504
+[2023.09.15-08.09.41:993][704]PIE: /Game/Maps/Level2/UEDPIE_0_Level2 에 대한 에디터에서 플레이 시작 시간: -0.825
+[2023.09.15-08.09.41:996][704]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.09.43:466][879]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.09.43:467][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-08.09.43:497][879]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.15-08.09.43:497][879]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.09.43:520][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-08.09.43:567][884]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.09.15-08.09.45:820][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.09.15-08.10.12:134][212]BlueprintLog: New page: Level2 컴파일
+[2023.09.15-08.10.12:590][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level2/Level2" FILE="../../../../unreal_Study/Escape/Content/Maps/Level2/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.15-08.10.12:697][255]LogSavePackage: Moving '../../../../unreal_Study/Escape/Saved/Level2AF56F3E0449299A512722A96DB9F8B2B.tmp' to '../../../../unreal_Study/Escape/Content/Maps/Level2/Level2.umap'
+[2023.09.15-08.10.12:703][255]LogFileHelpers: Saving map 'Level2' took 0.114
+[2023.09.15-08.10.13:464][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.10.14:805][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.10.15:213][555]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.09.15-08.10.15:219][555]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.10.15:219][555]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.15-08.10.15:219][555]PIE: New page: PIE 세션: Level2 (2023. 9. 16. 오전 2:10:15)
+[2023.09.15-08.10.15:219][555]LogPlayLevel: Creating play world package: /Game/Maps/Level2/UEDPIE_0_Level2
+[2023.09.15-08.10.15:222][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003204s)
+[2023.09.15-08.10.15:223][555]LogAIModule: Creating AISystem for world Level2
+[2023.09.15-08.10.15:223][555]LogPlayLevel: PIE: World Init took: (0.000403s)
+[2023.09.15-08.10.15:223][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level2/Level2.Level2 to /Game/Maps/Level2/UEDPIE_0_Level2.Level2 (0.003673s)
+[2023.09.15-08.10.15:263][555]LogInit: XAudio2 using 'UMAX(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.09.15-08.10.15:270][555]LogInit: FAudioDevice initialized.
+[2023.09.15-08.10.15:299][555]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.09.15-08.10.15:299][555]LogWorld: Bringing World /Game/Maps/Level2/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2023.09.15-17.10.15
+[2023.09.15-08.10.15:300][555]LogWorld: Bringing up level for play took: 0.000540
+[2023.09.15-08.10.15:313][555]PIE: /Game/Maps/Level2/UEDPIE_0_Level2 에 대한 에디터에서 플레이 시작 시간: 0.495
+[2023.09.15-08.10.15:314][555]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.10.16:236][665]LogBlueprintUserMessages: [Level2_C_9] F키를 눌렀다
+[2023.09.15-08.10.18:861][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.10.20:595][188]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.10.20:595][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-08.10.20:624][188]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.15-08.10.20:624][188]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.10.20:644][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-08.10.20:699][194]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.09.15-08.10.29:981][254]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.09.15-08.12.13:253][259]LogSlate: Window '색 선택 툴' being destroyed
+[2023.09.15-08.12.43:602][705]BlueprintLog: New page: BP_SwitchUI 컴파일
+[2023.09.15-08.12.44:012][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level2/BP_SwitchUI" FILE="../../../../unreal_Study/Escape/Content/Maps/Level2/BP_SwitchUI.uasset" SILENT=true
+[2023.09.15-08.12.44:017][748]LogSavePackage: Moving '../../../../unreal_Study/Escape/Saved/BP_SwitchUIEEA2487140B06D95B88779A8750A8817.tmp' to '../../../../unreal_Study/Escape/Content/Maps/Level2/BP_SwitchUI.uasset'
+[2023.09.15-08.12.44:923][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.13.02:924][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.13.31:463][343]BlueprintLog: New page: BP_SwitchUI 컴파일
+[2023.09.15-08.13.31:935][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level2/BP_SwitchUI" FILE="../../../../unreal_Study/Escape/Content/Maps/Level2/BP_SwitchUI.uasset" SILENT=true
+[2023.09.15-08.13.31:939][389]LogSavePackage: Moving '../../../../unreal_Study/Escape/Saved/BP_SwitchUI797FD8724C09F6F9B96775808E64337B.tmp' to '../../../../unreal_Study/Escape/Content/Maps/Level2/BP_SwitchUI.uasset'
+[2023.09.15-08.13.32:693][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.13.34:167][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.13.34:250][665]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.09.15-08.13.34:255][665]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.13.34:256][665]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2023.09.15-08.13.34:258][665]LogPlayLevel: [PlayLevel] Compiling Level2 before play...
+[2023.09.15-08.13.34:337][665]LogPlayLevel: PlayLevel: Blueprint regeneration took 81 ms (1 blueprints)
+[2023.09.15-08.13.34:338][665]PIE: New page: PIE 세션: Level2 (2023. 9. 16. 오전 2:13:34)
+[2023.09.15-08.13.34:338][665]LogPlayLevel: Creating play world package: /Game/Maps/Level2/UEDPIE_0_Level2
+[2023.09.15-08.13.34:341][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003166s)
+[2023.09.15-08.13.34:341][665]LogAIModule: Creating AISystem for world Level2
+[2023.09.15-08.13.34:341][665]LogPlayLevel: PIE: World Init took: (0.000412s)
+[2023.09.15-08.13.34:341][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level2/Level2.Level2 to /Game/Maps/Level2/UEDPIE_0_Level2.Level2 (0.003650s)
+[2023.09.15-08.13.34:381][665]LogInit: XAudio2 using 'UMAX(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.09.15-08.13.34:388][665]LogInit: FAudioDevice initialized.
+[2023.09.15-08.13.34:416][665]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.09.15-08.13.34:416][665]LogWorld: Bringing World /Game/Maps/Level2/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2023.09.15-17.13.34
+[2023.09.15-08.13.34:417][665]LogWorld: Bringing up level for play took: 0.000502
+[2023.09.15-08.13.34:429][665]PIE: /Game/Maps/Level2/UEDPIE_0_Level2 에 대한 에디터에서 플레이 시작 시간: -0.389
+[2023.09.15-08.13.34:429][665]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.13.38:599][107]LogBlueprintUserMessages: [Level2_C_10] F키를 눌렀다
+[2023.09.15-08.13.40:241][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.13.45:967][736]Cmd: SELECT NONE
+[2023.09.15-08.13.49:829][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.13.50:576][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.13.50:644][286]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.13.50:644][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-08.13.50:703][286]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.15-08.13.50:703][286]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.13.50:726][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-08.13.50:761][288]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.09.15-08.15.07:809][528]BlueprintLog: New page: BP_SwitchUI 컴파일
+[2023.09.15-08.15.08:190][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level2/BP_SwitchUI" FILE="../../../../unreal_Study/Escape/Content/Maps/Level2/BP_SwitchUI.uasset" SILENT=true
+[2023.09.15-08.15.08:195][563]LogSavePackage: Moving '../../../../unreal_Study/Escape/Saved/BP_SwitchUI35B5A66244403798836735B613766DDB.tmp' to '../../../../unreal_Study/Escape/Content/Maps/Level2/BP_SwitchUI.uasset'
+[2023.09.15-08.15.58:292][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.15.58:771][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level2/BP_SwitchUI" FILE="../../../../unreal_Study/Escape/Content/Maps/Level2/BP_SwitchUI.uasset" SILENT=true
+[2023.09.15-08.15.58:774][797]LogSavePackage: Moving '../../../../unreal_Study/Escape/Saved/BP_SwitchUI622C3AA7491DB7DD3F720FB613CE997C.tmp' to '../../../../unreal_Study/Escape/Content/Maps/Level2/BP_SwitchUI.uasset'
+[2023.09.15-08.15.59:738][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.15.59:817][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level2/BP_SwitchUI" FILE="../../../../unreal_Study/Escape/Content/Maps/Level2/BP_SwitchUI.uasset" SILENT=true
+[2023.09.15-08.15.59:822][921]LogSavePackage: Moving '../../../../unreal_Study/Escape/Saved/BP_SwitchUIF2078C4347C41281F6944B9432BA56A3.tmp' to '../../../../unreal_Study/Escape/Content/Maps/Level2/BP_SwitchUI.uasset'
+[2023.09.15-08.16.02:137][197]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.09.15-08.16.02:139][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level2/Level2" FILE="../../../../unreal_Study/Escape/Content/Maps/Level2/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.15-08.16.02:244][197]LogSavePackage: Moving '../../../../unreal_Study/Escape/Saved/Level270E41BB545E225B767F646A79ACC171A.tmp' to '../../../../unreal_Study/Escape/Content/Maps/Level2/Level2.umap'
+[2023.09.15-08.16.02:251][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level2/Level2_BuiltData" FILE="../../../../unreal_Study/Escape/Content/Maps/Level2/Level2_BuiltData.uasset" SILENT=true
+[2023.09.15-08.16.02:259][197]LogSavePackage: Moving '../../../../unreal_Study/Escape/Saved/Level2_BuiltData54F793C14479288C48CA519EC156C9DB.tmp' to '../../../../unreal_Study/Escape/Content/Maps/Level2/Level2_BuiltData.uasset'
+[2023.09.15-08.16.13:073][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.17.17:066][143]BlueprintLog: New page: BP_SwitchUI 컴파일
+[2023.09.15-08.17.17:527][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level2/BP_SwitchUI" FILE="../../../../unreal_Study/Escape/Content/Maps/Level2/BP_SwitchUI.uasset" SILENT=true
+[2023.09.15-08.17.17:532][192]LogSavePackage: Moving '../../../../unreal_Study/Escape/Saved/BP_SwitchUI4A3B86074ED3EFA8EB8D86BF8AC413FF.tmp' to '../../../../unreal_Study/Escape/Content/Maps/Level2/BP_SwitchUI.uasset'
+[2023.09.15-08.17.52:507][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.18.00:046][141]BlueprintLog: New page: BP_SwitchUI 컴파일
+[2023.09.15-08.18.00:457][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level2/BP_SwitchUI" FILE="../../../../unreal_Study/Escape/Content/Maps/Level2/BP_SwitchUI.uasset" SILENT=true
+[2023.09.15-08.18.00:463][186]LogSavePackage: Moving '../../../../unreal_Study/Escape/Saved/BP_SwitchUI2B0DCA184DC566E4B51BDD8916222BB3.tmp' to '../../../../unreal_Study/Escape/Content/Maps/Level2/BP_SwitchUI.uasset'
+[2023.09.15-08.18.01:356][293]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.18.03:330][530]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.18.03:405][539]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.09.15-08.18.03:411][539]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.18.03:411][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.15-08.18.03:412][539]PIE: New page: PIE 세션: Level2 (2023. 9. 16. 오전 2:18:03)
+[2023.09.15-08.18.03:412][539]LogPlayLevel: Creating play world package: /Game/Maps/Level2/UEDPIE_0_Level2
+[2023.09.15-08.18.03:415][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003220s)
+[2023.09.15-08.18.03:415][539]LogAIModule: Creating AISystem for world Level2
+[2023.09.15-08.18.03:415][539]LogPlayLevel: PIE: World Init took: (0.000360s)
+[2023.09.15-08.18.03:415][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level2/Level2.Level2 to /Game/Maps/Level2/UEDPIE_0_Level2.Level2 (0.003642s)
+[2023.09.15-08.18.03:456][539]LogInit: XAudio2 using 'UMAX(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.09.15-08.18.03:463][539]LogInit: FAudioDevice initialized.
+[2023.09.15-08.18.03:491][539]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.09.15-08.18.03:492][539]LogWorld: Bringing World /Game/Maps/Level2/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2023.09.15-17.18.03
+[2023.09.15-08.18.03:492][539]LogWorld: Bringing up level for play took: 0.000554
+[2023.09.15-08.18.03:506][539]PIE: /Game/Maps/Level2/UEDPIE_0_Level2 에 대한 에디터에서 플레이 시작 시간: 0.687
+[2023.09.15-08.18.03:506][539]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.18.05:486][776]LogBlueprintUserMessages: [Level2_C_11] F키를 눌렀다
+[2023.09.15-08.18.06:544][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.18.09:895][305]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.18.09:895][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-08.18.09:921][305]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.15-08.18.09:921][305]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.18.09:945][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-08.18.09:994][311]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.09.15-08.18.13:653][750]Cmd: SELECT NONE
+[2023.09.15-08.18.16:505][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2023.09.15-08.20.19:020][597]BlueprintLog: New page: BP_SwitchUI 컴파일
+[2023.09.15-08.20.19:022][597]LogBlueprint: Error: [Compiler BP_SwitchUI] 이 블루프린트(셀프)는 PlayerController 이지 않으므로, ' 타깃 ' 에 연결이 있어야 합니다.
+[2023.09.15-08.20.19:022][597]LogBlueprint: Error: [Compiler BP_SwitchUI] bShowMouseCursor 설정  변수 노드가 유효하지 않은 타깃을 사용합니다. 실행 체인에 연결되지 않았다가 제거된 노드에 의존하는 것 같습니다.
+[2023.09.15-08.20.19:050][597]LogBlueprint: Warning: [Compiler BP_SwitchUI] [1049.10] BP_SwitchUI 컴파일에 실패했습니다. 치명적 오류 2 회, 경고 0 회, [소요시간 30 ms] (/Game/Maps/Level2/BP_SwitchUI.BP_SwitchUI)
+[2023.09.15-08.20.36:586][679]BlueprintLog: New page: BP_SwitchUI 컴파일
+[2023.09.15-08.20.37:333][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level2/BP_SwitchUI" FILE="../../../../unreal_Study/Escape/Content/Maps/Level2/BP_SwitchUI.uasset" SILENT=true
+[2023.09.15-08.20.37:339][721]LogSavePackage: Moving '../../../../unreal_Study/Escape/Saved/BP_SwitchUI3299C0EB42757C9EB0A35AB06C39EBDE.tmp' to '../../../../unreal_Study/Escape/Content/Maps/Level2/BP_SwitchUI.uasset'
+[2023.09.15-08.20.47:971][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.20.49:445][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.20.49:520][181]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.09.15-08.20.49:526][181]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.20.49:526][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.15-08.20.49:526][181]PIE: New page: PIE 세션: Level2 (2023. 9. 16. 오전 2:20:49)
+[2023.09.15-08.20.49:526][181]LogPlayLevel: Creating play world package: /Game/Maps/Level2/UEDPIE_0_Level2
+[2023.09.15-08.20.49:529][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003146s)
+[2023.09.15-08.20.49:529][181]LogAIModule: Creating AISystem for world Level2
+[2023.09.15-08.20.49:529][181]LogPlayLevel: PIE: World Init took: (0.000375s)
+[2023.09.15-08.20.49:530][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level2/Level2.Level2 to /Game/Maps/Level2/UEDPIE_0_Level2.Level2 (0.003604s)
+[2023.09.15-08.20.49:572][181]LogInit: XAudio2 using 'UMAX(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.09.15-08.20.49:579][181]LogInit: FAudioDevice initialized.
+[2023.09.15-08.20.49:605][181]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.09.15-08.20.49:606][181]LogWorld: Bringing World /Game/Maps/Level2/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2023.09.15-17.20.49
+[2023.09.15-08.20.49:606][181]LogWorld: Bringing up level for play took: 0.000514
+[2023.09.15-08.20.49:618][181]PIE: /Game/Maps/Level2/UEDPIE_0_Level2 에 대한 에디터에서 플레이 시작 시간: 0.8
+[2023.09.15-08.20.49:618][181]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.20.52:291][499]LogBlueprintUserMessages: [Level2_C_11] F키를 눌렀다
+[2023.09.15-08.20.53:099][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.20.54:674][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.20.56:000][944]LogBlueprintUserMessages: [Level2_C_11] F키를 눌렀다
+[2023.09.15-08.20.56:674][ 25]LogBlueprintUserMessages: [Level2_C_11] F키를 눌렀다
+[2023.09.15-08.20.57:816][162]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.20.57:817][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-08.20.57:844][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.15-08.20.57:844][162]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.20.57:869][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-08.20.57:918][168]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.09.15-08.20.58:893][285]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.15-08.20.58:893][285]Can't find target actor or component.
+[2023.09.15-08.20.59:686][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.20.59:760][389]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.09.15-08.20.59:765][389]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.20.59:765][389]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.15-08.20.59:765][389]PIE: New page: PIE 세션: Level2 (2023. 9. 16. 오전 2:20:59)
+[2023.09.15-08.20.59:765][389]LogPlayLevel: Creating play world package: /Game/Maps/Level2/UEDPIE_0_Level2
+[2023.09.15-08.20.59:768][389]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003119s)
+[2023.09.15-08.20.59:768][389]LogAIModule: Creating AISystem for world Level2
+[2023.09.15-08.20.59:768][389]LogPlayLevel: PIE: World Init took: (0.000342s)
+[2023.09.15-08.20.59:768][389]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level2/Level2.Level2 to /Game/Maps/Level2/UEDPIE_0_Level2.Level2 (0.003531s)
+[2023.09.15-08.20.59:809][389]LogInit: XAudio2 using 'UMAX(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.09.15-08.20.59:815][389]LogInit: FAudioDevice initialized.
+[2023.09.15-08.20.59:844][389]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.09.15-08.20.59:844][389]LogWorld: Bringing World /Game/Maps/Level2/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2023.09.15-17.20.59
+[2023.09.15-08.20.59:845][389]LogWorld: Bringing up level for play took: 0.000496
+[2023.09.15-08.20.59:857][389]PIE: /Game/Maps/Level2/UEDPIE_0_Level2 에 대한 에디터에서 플레이 시작 시간: 1.039
+[2023.09.15-08.20.59:857][389]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.21.01:539][590]LogBlueprintUserMessages: [Level2_C_11] F키를 눌렀다
+[2023.09.15-08.21.02:313][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.21.02:830][745]LogBlueprintUserMessages: [Level2_C_11] F키를 눌렀다
+[2023.09.15-08.21.03:437][817]LogBlueprintUserMessages: [Level2_C_11] F키를 눌렀다
+[2023.09.15-08.21.04:087][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.21.04:537][949]LogBlueprintUserMessages: [Level2_C_11] F키를 눌렀다
+[2023.09.15-08.21.04:903][993]LogBlueprintUserMessages: [Level2_C_11] F키를 눌렀다
+[2023.09.15-08.21.05:420][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.21.05:803][101]LogBlueprintUserMessages: [Level2_C_11] F키를 눌렀다
+[2023.09.15-08.21.05:953][119]LogBlueprintUserMessages: [Level2_C_11] F키를 눌렀다
+[2023.09.15-08.21.08:587][435]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.21.09:195][508]LogBlueprintUserMessages: [Level2_C_11] F키를 눌렀다
+[2023.09.15-08.21.11:254][755]LogBlueprintUserMessages: [Level2_C_11] F키를 눌렀다
+[2023.09.15-08.21.12:311][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.21.13:962][ 80]LogBlueprintUserMessages: [Level2_C_11] F키를 눌렀다
+[2023.09.15-08.21.14:520][147]LogBlueprintUserMessages: [Level2_C_11] F키를 눌렀다
+[2023.09.15-08.21.15:121][219]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.21.15:121][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-08.21.15:151][219]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.15-08.21.15:151][219]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level2/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Maps/Level2/Level2.Level2_C' with ClassGeneratedBy '/Game/Maps/Level2/Level2.Level2:PersistentLevel.Level2'
+[2023.09.15-08.21.15:175][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-08.21.15:223][225]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.09.15-08.27.44:338][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.28.38:130][920]LogSlate: Took 0.011316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.09.15-08.29.39:890][316]BlueprintLog: New page: BP_SwitchUI 컴파일
+[2023.09.15-08.29.40:358][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level2/BP_SwitchUI" FILE="../../../../unreal_Study/Escape/Content/Maps/Level2/BP_SwitchUI.uasset" SILENT=true
+[2023.09.15-08.29.40:364][367]LogSavePackage: Moving '../../../../unreal_Study/Escape/Saved/BP_SwitchUIA01C8F064CC903064A6E969B6280160A.tmp' to '../../../../unreal_Study/Escape/Content/Maps/Level2/BP_SwitchUI.uasset'
+[2023.09.15-08.29.51:266][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.33.09:485][348]BlueprintLog: New page: BP_SwitchUI 컴파일
+[2023.09.15-08.36.38:860][863]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level2/Level2' took 0.023
+[2023.09.15-08.36.38:861][863]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Level2/BP_SwitchUI] ([1] browsable assets)...
+[2023.09.15-08.36.38:861][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Level2/BP_SwitchUI]
+[2023.09.15-08.36.38:861][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level2/BP_SwitchUI" FILE="../../../../unreal_Study/Escape/Saved/Autosaves/Game/Maps/Level2/BP_SwitchUI_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.09.15-08.36.38:871][863]LogSavePackage: Moving '../../../../unreal_Study/Escape/Saved/BP_SwitchUI_Auto186636A8246E1E131EF439791BEE3D1B4.tmp' to '../../../../unreal_Study/Escape/Saved/Autosaves/Game/Maps/Level2/BP_SwitchUI_Auto1.uasset'
+[2023.09.15-08.36.38:871][863]LogFileHelpers: Auto-saving content packages took 0.010
+[2023.09.15-08.37.57:763][287]BlueprintLog: New page: BP_SwitchUI 컴파일
+[2023.09.15-08.37.57:775][287]LogBlueprint: Warning: [Compiler BP_SwitchUI]  에 대한 '(-1,-1,-1,-1)' 기본값을 파싱할 수 없습니다. 프로퍼티: nIndex.
+[2023.09.15-08.37.57:801][287]LogBlueprint: Warning: [Compiler BP_SwitchUI] [2107.85] BP_SwitchUI 컴파일에 성공했습니다만, 경고가 1 회 있습니다. [소요시간 38 ms] (/Game/Maps/Level2/BP_SwitchUI.BP_SwitchUI)
+[2023.09.15-08.38.53:428][676]BlueprintLog: New page: BP_SwitchUI 컴파일
+[2023.09.15-08.38.53:920][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level2/BP_SwitchUI" FILE="../../../../unreal_Study/Escape/Content/Maps/Level2/BP_SwitchUI.uasset" SILENT=true
+[2023.09.15-08.38.53:929][728]LogSavePackage: Moving '../../../../unreal_Study/Escape/Saved/BP_SwitchUI39588AD644EBB5204E43FF9A8F012D59.tmp' to '../../../../unreal_Study/Escape/Content/Maps/Level2/BP_SwitchUI.uasset'
+[2023.09.15-08.38.54:375][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.40.19:395][926]BlueprintLog: New page: BP_SwitchUI 컴파일
+[2023.09.15-08.40.19:826][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level2/BP_SwitchUI" FILE="../../../../unreal_Study/Escape/Content/Maps/Level2/BP_SwitchUI.uasset" SILENT=true
+[2023.09.15-08.40.19:837][972]LogSavePackage: Moving '../../../../unreal_Study/Escape/Saved/BP_SwitchUIF53570C1444B24DB9D25B3A95EB25ACD.tmp' to '../../../../unreal_Study/Escape/Content/Maps/Level2/BP_SwitchUI.uasset'
+[2023.09.15-08.40.21:477][168]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.42.18:427][185]BlueprintLog: New page: BP_SwitchUI 컴파일
+[2023.09.15-08.42.18:976][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level2/BP_SwitchUI" FILE="../../../../unreal_Study/Escape/Content/Maps/Level2/BP_SwitchUI.uasset" SILENT=true
+[2023.09.15-08.42.18:988][245]LogSavePackage: Moving '../../../../unreal_Study/Escape/Saved/BP_SwitchUIC7EDED664C3B41B583B01F802BC0762A.tmp' to '../../../../unreal_Study/Escape/Content/Maps/Level2/BP_SwitchUI.uasset'
+[2023.09.15-08.42.19:984][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.42.34:671][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.42.35:042][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level2/Level2" FILE="../../../../unreal_Study/Escape/Content/Maps/Level2/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.15-08.42.35:150][465]LogSavePackage: Moving '../../../../unreal_Study/Escape/Saved/Level276CDCBC04C0D4FC806798EB02111B13F.tmp' to '../../../../unreal_Study/Escape/Content/Maps/Level2/Level2.umap'
+[2023.09.15-08.42.35:157][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level2/Level2_BuiltData" FILE="../../../../unreal_Study/Escape/Content/Maps/Level2/Level2_BuiltData.uasset" SILENT=true
+[2023.09.15-08.42.35:167][465]LogSavePackage: Moving '../../../../unreal_Study/Escape/Saved/Level2_BuiltDataBFAB16324349EED98D61B3B4454AF162.tmp' to '../../../../unreal_Study/Escape/Content/Maps/Level2/Level2_BuiltData.uasset'
+[2023.09.15-08.42.36:668][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.15-08.42.38:014][771]LogSlate: Window 'Level2 - 레벨 블루프린트 에디터' being destroyed
+[2023.09.15-08.42.38:026][771]LogSlate: Window 'Escape - 언리얼 에디터' being destroyed
+[2023.09.15-08.42.38:171][772]Cmd: QUIT_EDITOR
+[2023.09.15-08.42.38:463][772]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2023.09.15-08.42.38:468][772]LogExit: Preparing to exit.
+[2023.09.15-08.42.38:613][772]LogExit: Editor shut down
+[2023.09.15-08.42.38:613][772]LogExit: Transaction tracking system shut down
+[2023.09.15-08.42.38:759][772]LogExit: Object subsystem successfully closed.
+[2023.09.15-08.42.38:774][772]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.09.15-08.42.38:774][772]LogD3D11RHI: Shutdown
+[2023.09.15-08.42.38:774][772]LogD3D11RHI: CleanupD3DDevice
+[2023.09.15-08.42.38:775][772]LogD3D11RHI: ~FD3D11DynamicRHI
+[2023.09.15-08.42.38:782][772]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (630)
+[2023.09.15-08.42.38:782][772]LogModuleManager: Shutting down and abandoning module Voice (628)
+[2023.09.15-08.42.38:782][772]LogModuleManager: Shutting down and abandoning module SequencerWidgets (626)
+[2023.09.15-08.42.38:782][772]LogModuleManager: Shutting down and abandoning module BlueprintGraph (624)
+[2023.09.15-08.42.38:782][772]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2023.09.15-08.42.38:782][772]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2023.09.15-08.42.38:782][772]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2023.09.15-08.42.38:782][772]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2023.09.15-08.42.38:782][772]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2023.09.15-08.42.38:782][772]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2023.09.15-08.42.38:782][772]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2023.09.15-08.42.38:782][772]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2023.09.15-08.42.38:782][772]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2023.09.15-08.42.38:782][772]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2023.09.15-08.42.38:782][772]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2023.09.15-08.42.38:782][772]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2023.09.15-08.42.38:782][772]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2023.09.15-08.42.38:782][772]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2023.09.15-08.42.38:782][772]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2023.09.15-08.42.38:782][772]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2023.09.15-08.42.38:782][772]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2023.09.15-08.42.38:782][772]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2023.09.15-08.42.38:782][772]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2023.09.15-08.42.38:782][772]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2023.09.15-08.42.38:782][772]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2023.09.15-08.42.38:782][772]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2023.09.15-08.42.38:782][772]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2023.09.15-08.42.38:782][772]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2023.09.15-08.42.38:782][772]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2023.09.15-08.42.38:782][772]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2023.09.15-08.42.38:782][772]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2023.09.15-08.42.38:782][772]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2023.09.15-08.42.38:782][772]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2023.09.15-08.42.38:783][772]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2023.09.15-08.42.38:783][772]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2023.09.15-08.42.38:783][772]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2023.09.15-08.42.38:783][772]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2023.09.15-08.42.38:783][772]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2023.09.15-08.42.38:783][772]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2023.09.15-08.42.38:783][772]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2023.09.15-08.42.38:783][772]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2023.09.15-08.42.38:783][772]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2023.09.15-08.42.38:783][772]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2023.09.15-08.42.38:783][772]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2023.09.15-08.42.38:783][772]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2023.09.15-08.42.38:783][772]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2023.09.15-08.42.38:783][772]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2023.09.15-08.42.38:783][772]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2023.09.15-08.42.38:783][772]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2023.09.15-08.42.38:783][772]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2023.09.15-08.42.38:783][772]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2023.09.15-08.42.38:783][772]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2023.09.15-08.42.38:783][772]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2023.09.15-08.42.38:783][772]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2023.09.15-08.42.38:783][772]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2023.09.15-08.42.38:783][772]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2023.09.15-08.42.38:783][772]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2023.09.15-08.42.38:783][772]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2023.09.15-08.42.38:783][772]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2023.09.15-08.42.38:783][772]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2023.09.15-08.42.39:725][772]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2023.09.15-08.42.39:725][772]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2023.09.15-08.42.39:725][772]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2023.09.15-08.42.39:725][772]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2023.09.15-08.42.39:725][772]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2023.09.15-08.42.39:725][772]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2023.09.15-08.42.39:725][772]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2023.09.15-08.42.39:725][772]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2023.09.15-08.42.39:725][772]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2023.09.15-08.42.39:725][772]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2023.09.15-08.42.39:725][772]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2023.09.15-08.42.39:726][772]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2023.09.15-08.42.39:726][772]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2023.09.15-08.42.39:726][772]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2023.09.15-08.42.39:726][772]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2023.09.15-08.42.39:726][772]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2023.09.15-08.42.39:726][772]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2023.09.15-08.42.39:726][772]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2023.09.15-08.42.39:726][772]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2023.09.15-08.42.39:726][772]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2023.09.15-08.42.39:726][772]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2023.09.15-08.42.39:726][772]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2023.09.15-08.42.39:726][772]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2023.09.15-08.42.39:779][772]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2023.09.15-08.42.39:779][772]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2023.09.15-08.42.39:779][772]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2023.09.15-08.42.39:779][772]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2023.09.15-08.42.39:779][772]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2023.09.15-08.42.39:779][772]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2023.09.15-08.42.39:779][772]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2023.09.15-08.42.39:779][772]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2023.09.15-08.42.39:779][772]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2023.09.15-08.42.39:779][772]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2023.09.15-08.42.39:783][772]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2023.09.15-08.42.39:783][772]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2023.09.15-08.42.39:783][772]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2023.09.15-08.42.39:783][772]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2023.09.15-08.42.39:783][772]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2023.09.15-08.42.39:783][772]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2023.09.15-08.42.39:783][772]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2023.09.15-08.42.39:783][772]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2023.09.15-08.42.39:783][772]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2023.09.15-08.42.39:783][772]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2023.09.15-08.42.39:783][772]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2023.09.15-08.42.39:783][772]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2023.09.15-08.42.39:783][772]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2023.09.15-08.42.39:783][772]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2023.09.15-08.42.39:783][772]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2023.09.15-08.42.39:783][772]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2023.09.15-08.42.39:783][772]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2023.09.15-08.42.39:783][772]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2023.09.15-08.42.39:783][772]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2023.09.15-08.42.39:783][772]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2023.09.15-08.42.39:783][772]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2023.09.15-08.42.39:783][772]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2023.09.15-08.42.39:785][772]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2023.09.15-08.42.39:806][772]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2023.09.15-08.42.39:806][772]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2023.09.15-08.42.39:806][772]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2023.09.15-08.42.39:806][772]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2023.09.15-08.42.39:806][772]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2023.09.15-08.42.39:806][772]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2023.09.15-08.42.39:806][772]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2023.09.15-08.42.39:806][772]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2023.09.15-08.42.39:806][772]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2023.09.15-08.42.39:806][772]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2023.09.15-08.42.39:806][772]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2023.09.15-08.42.39:806][772]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2023.09.15-08.42.39:806][772]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2023.09.15-08.42.39:806][772]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2023.09.15-08.42.39:806][772]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2023.09.15-08.42.39:806][772]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2023.09.15-08.42.39:806][772]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2023.09.15-08.42.39:808][772]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2023.09.15-08.42.39:909][772]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2023.09.15-08.42.40:010][772]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2023.09.15-08.42.40:010][772]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2023.09.15-08.42.40:010][772]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2023.09.15-08.42.40:010][772]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2023.09.15-08.42.40:010][772]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2023.09.15-08.42.40:010][772]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2023.09.15-08.42.40:010][772]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2023.09.15-08.42.40:010][772]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2023.09.15-08.42.40:010][772]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2023.09.15-08.42.40:010][772]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2023.09.15-08.42.40:010][772]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2023.09.15-08.42.40:010][772]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2023.09.15-08.42.40:011][772]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2023.09.15-08.42.40:011][772]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2023.09.15-08.42.40:011][772]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2023.09.15-08.42.40:011][772]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2023.09.15-08.42.40:011][772]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2023.09.15-08.42.40:011][772]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2023.09.15-08.42.40:011][772]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2023.09.15-08.42.40:012][772]LogModuleManager: Shutting down and abandoning module Media (241)
+[2023.09.15-08.42.40:018][772]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2023.09.15-08.42.40:018][772]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2023.09.15-08.42.40:018][772]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2023.09.15-08.42.40:018][772]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2023.09.15-08.42.40:018][772]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2023.09.15-08.42.40:018][772]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2023.09.15-08.42.40:018][772]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2023.09.15-08.42.40:018][772]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2023.09.15-08.42.40:018][772]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2023.09.15-08.42.40:018][772]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2023.09.15-08.42.40:018][772]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2023.09.15-08.42.40:018][772]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2023.09.15-08.42.40:018][772]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2023.09.15-08.42.40:018][772]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2023.09.15-08.42.40:018][772]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2023.09.15-08.42.40:018][772]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2023.09.15-08.42.40:018][772]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2023.09.15-08.42.40:018][772]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2023.09.15-08.42.40:018][772]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2023.09.15-08.42.40:018][772]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2023.09.15-08.42.40:019][772]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2023.09.15-08.42.40:019][772]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2023.09.15-08.42.40:019][772]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2023.09.15-08.42.40:019][772]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2023.09.15-08.42.40:019][772]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2023.09.15-08.42.40:019][772]LogModuleManager: Shutting down and abandoning module Core (186)
+[2023.09.15-08.42.40:019][772]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2023.09.15-08.42.40:019][772]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2023.09.15-08.42.40:019][772]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2023.09.15-08.42.40:019][772]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2023.09.15-08.42.40:019][772]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2023.09.15-08.42.40:019][772]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2023.09.15-08.42.40:019][772]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2023.09.15-08.42.40:019][772]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2023.09.15-08.42.40:019][772]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2023.09.15-08.42.40:019][772]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2023.09.15-08.42.40:019][772]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2023.09.15-08.42.40:019][772]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2023.09.15-08.42.40:045][772]LogDerivedDataCache: Shutdown
+[2023.09.15-08.42.40:045][772]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2023.09.15-08.42.40:045][772]LogXGEController: Cleaning working directory: C:/Users/kyulgon/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.09.15-08.42.40:046][772]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2023.09.15-08.42.40:046][772]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2023.09.15-08.42.40:046][772]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2023.09.15-08.42.40:046][772]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2023.09.15-08.42.40:046][772]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2023.09.15-08.42.40:046][772]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2023.09.15-08.42.40:046][772]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2023.09.15-08.42.40:046][772]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2023.09.15-08.42.40:046][772]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2023.09.15-08.42.40:046][772]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2023.09.15-08.42.40:046][772]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2023.09.15-08.42.40:046][772]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2023.09.15-08.42.40:046][772]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2023.09.15-08.42.40:046][772]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2023.09.15-08.42.40:046][772]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2023.09.15-08.42.40:046][772]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2023.09.15-08.42.40:046][772]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2023.09.15-08.42.40:046][772]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2023.09.15-08.42.40:046][772]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2023.09.15-08.42.40:047][772]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2023.09.15-08.42.40:047][772]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2023.09.15-08.42.40:047][772]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2023.09.15-08.42.40:047][772]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2023.09.15-08.42.40:047][772]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2023.09.15-08.42.40:048][772]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2023.09.15-08.42.40:048][772]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2023.09.15-08.42.40:051][772]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2023.09.15-08.42.40:051][772]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2023.09.15-08.42.40:051][772]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2023.09.15-08.42.40:051][772]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2023.09.15-08.42.40:051][772]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2023.09.15-08.42.40:051][772]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2023.09.15-08.42.40:051][772]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2023.09.15-08.42.40:051][772]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2023.09.15-08.42.40:051][772]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2023.09.15-08.42.40:051][772]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2023.09.15-08.42.40:051][772]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2023.09.15-08.42.40:051][772]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2023.09.15-08.42.40:051][772]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2023.09.15-08.42.40:051][772]LogHMD: Freeing OpenVRDLLHandle.
+[2023.09.15-08.42.40:051][772]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2023.09.15-08.42.40:051][772]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2023.09.15-08.42.40:051][772]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2023.09.15-08.42.40:051][772]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2023.09.15-08.42.40:051][772]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2023.09.15-08.42.40:052][772]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2023.09.15-08.42.40:052][772]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2023.09.15-08.42.40:058][772]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2023.09.15-08.42.40:058][772]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2023.09.15-08.42.40:058][772]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8654144F-4B5E-7E6B-4D40-8688441560E0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=fbf6abc44fccd9734163dc878b1a4bd3%7C43182d3d23364adb8975ac54f8af7007%7C5348f26e-ba35-4308-9bf4-c8ec48e2a248&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2023.09.15-08.42.40:092][772]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2023.09.15-08.42.40:092][772]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2023.09.15-08.42.40:092][772]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2023.09.15-08.42.40:092][772]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2023.09.15-08.42.40:092][772]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2023.09.15-08.42.40:092][772]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2023.09.15-08.42.40:092][772]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2023.09.15-08.42.40:092][772]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2023.09.15-08.42.40:092][772]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.09.15-08.42.40:092][772]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2023.09.15-08.42.40:092][772]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2023.09.15-08.42.40:092][772]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2023.09.15-08.42.40:092][772]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2023.09.15-08.42.40:092][772]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2023.09.15-08.42.40:092][772]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2023.09.15-08.42.40:092][772]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2023.09.15-08.42.40:092][772]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2023.09.15-08.42.40:092][772]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2023.09.15-08.42.40:093][772]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2023.09.15-08.42.40:094][772]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2023.09.15-08.42.40:094][772]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2023.09.15-08.42.40:094][772]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2023.09.15-08.42.40:094][772]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2023.09.15-08.42.40:094][772]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2023.09.15-08.42.40:094][772]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2023.09.15-08.42.40:094][772]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2023.09.15-08.42.40:094][772]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2023.09.15-08.42.40:094][772]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2023.09.15-08.42.40:094][772]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2023.09.15-08.42.40:103][772]LogExit: Exiting.
+[2023.09.15-08.42.40:107][772]Log file closed, 09/15/23 17:42:40
