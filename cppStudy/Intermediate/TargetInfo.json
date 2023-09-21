@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "cppStudy",
+			"Path": "D:\\Unreal\\unreal_Study\\cppStudy\\Source\\cppStudy.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "cppStudyEditor",
+			"Path": "D:\\Unreal\\unreal_Study\\cppStudy\\Source\\cppStudyEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\unreal_study\\cppstudy\\intermediate\\build\\win64\\unrealeditor\\inc\\cppstudy\\uht\\myactor.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\unreal_study\\cppstudy\\intermediate\\build\\win64\\cppstudyeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal\\unreal_study\\cppstudy\\intermediate\\build\\win64\\unrealeditor\\development\\cppstudy\\definitions.cppstudy.h",
+            "d:\\unreal\\unreal_study\\cppstudy\\source\\cppstudy\\myactor.h",
+            "d:\\unreal\\unreal_study\\cppstudy\\intermediate\\build\\win64\\unrealeditor\\inc\\cppstudy\\uht\\myactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

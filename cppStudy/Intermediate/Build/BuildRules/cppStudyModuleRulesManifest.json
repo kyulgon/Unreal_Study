@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal\\unreal_Study\\cppStudy\\Source\\cppStudy\\cppStudy.Build.cs",
+		"D:\\Unreal\\unreal_Study\\cppStudy\\Source\\cppStudy.Target.cs",
+		"D:\\Unreal\\unreal_Study\\cppStudy\\Source\\cppStudyEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.1"
+}

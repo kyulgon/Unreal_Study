@@ -1,0 +1,5 @@
+﻿  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" cppStudyEditor Win64 Development -Project="D:\Unreal\unreal_Study\cppStudy\cppStudy.uproject" -WaitMutex -FromMsBuild
+  Log file: C:\Users\kyulgon\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal\unreal_Study).
+  Unable to build while Live Coding is active. Exit the editor and game, or press Ctrl+Alt+F11 if iterating on code in the editor or game
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.MakeFile.Targets(44,5): error MSB3073: "D:\Unreal\UE_5.1\Engine\Build\BatchFiles\Build.bat cppStudyEditor Win64 Development -Project="D:\Unreal\unreal_Study\cppStudy\cppStudy.uproject" -WaitMutex -FromMsBuild" 명령이 종료되었습니다(코드: 6).
